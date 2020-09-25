@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="de">
+  <head>
+    <meta name="dtb:fidus" content="59" />
+  </head>
+  <docTitle>
+    <text>KID (Der Kinder-und Jugendgesundheitsdienst) TEST</text>
+  </docTitle>
+  <navMap>
+
+    <!-- 2.01 NCX: playOrder is optional -->
+    <navPoint id="t0">
+      <navLabel><text>Cover</text></navLabel>
+      <content src="cover.xhtml#cover" />
+    </navPoint>
+    <navPoint id="t1">
+      <navLabel><text>Title page</text></navLabel>
+      <content src="titlepage.xhtml#title" />
+    </navPoint>
+    <navPoint id="t_1_0-1">
+      <navLabel><text>KID00iStartseite</text></navLabel>
+      <content src="document-1.xhtml#_1_0" />
+    </navPoint>
+    <navPoint id="t_2_0-2">
+      <navLabel><text>KID01. Präambel</text></navLabel>
+      <content src="document-2.xhtml#_2_0" />
+      <navPoint id="tH8502490-2">
+        <navLabel><text>Sozialpädiatrie</text></navLabel>
+        <content src="document-2.xhtml#H8502490" />
+      </navPoint>
+      <navPoint id="tH3682975-2">
+        <navLabel><text>Sozialkompensatorische und subsidiäre Aspekte</text></navLabel>
+        <content src="document-2.xhtml#H3682975" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_3_0-3">
+      <navLabel><text>KID02. Kooperationslandschaft</text></navLabel>
+      <content src="document-3.xhtml#_3_0" />
+      <navPoint id="tH267639-3">
+        <navLabel><text>Andere Fachabteilungen im Gesundheitsamt</text></navLabel>
+        <content src="document-3.xhtml#H267639" />
+        <navPoint id="tH7620683-3">
+          <navLabel><text>Kinder- und Jugendpsychiatrischer Dienst</text></navLabel>
+          <content src="document-3.xhtml#H7620683" />
+          <navPoint id="tH8325527-3">
+            <navLabel><text>Beratung</text></navLabel>
+            <content src="document-3.xhtml#H8325527" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="tH7489599-3">
+          <navLabel><text>Zahnärztlicher Dienst</text></navLabel>
+          <content src="document-3.xhtml#H7489599" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="tH7364031-3">
+        <navLabel><text>Andere Behörden</text></navLabel>
+        <content src="document-3.xhtml#H7364031" />
+        <navPoint id="tH7126405-3">
+          <navLabel><text>Jugendamt</text></navLabel>
+          <content src="document-3.xhtml#H7126405" />
+        </navPoint>
+        <navPoint id="tH8305802-3">
+          <navLabel><text>Schulamt im Sinne der Schulaufsicht (Kommunale Schulverwaltung sowie Landesschulbehörde)</text></navLabel>
+          <content src="document-3.xhtml#H8305802" />
+        </navPoint>
+        <navPoint id="tH7352337-3">
+          <navLabel><text>Sozialamt</text></navLabel>
+          <content src="document-3.xhtml#H7352337" />
+        </navPoint>
+        <navPoint id="tH3689549-3">
+          <navLabel><text>Ausländeramt</text></navLabel>
+          <content src="document-3.xhtml#H3689549" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="tH8906352-3">
+        <navLabel><text>Andere Bereiche des Gesundheitswesens</text></navLabel>
+        <content src="document-3.xhtml#H8906352" />
+        <navPoint id="tH8773177-3">
+          <navLabel><text>Aufgaben/Finanzierung der ambulanten und stationären Versorgung</text></navLabel>
+          <content src="document-3.xhtml#H8773177" />
+        </navPoint>
+        <navPoint id="tH5477305-3">
+          <navLabel><text>Aufgaben/Finanzierung des Öffentlichen Gesundheitsdienstes</text></navLabel>
+          <content src="document-3.xhtml#H5477305" />
+        </navPoint>
+        <navPoint id="tH4875592-3">
+          <navLabel><text>Sozialpädiatrische Zentren</text></navLabel>
+          <content src="document-3.xhtml#H4875592" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_4_0-4">
+      <navLabel><text>KID03. Handlungsfelder</text></navLabel>
+      <content src="document-4.xhtml#_4_0" />
+      <navPoint id="tdocs-internal-guid-418c920a-7fff-b002-f3f6-b805d4c183c0-4">
+        <navLabel><text>Aufwachsen in öffentlicher Verantwortung</text></navLabel>
+        <content src="document-4.xhtml#docs-internal-guid-418c920a-7fff-b002-f3f6-b805d4c183c0" />
+      </navPoint>
+      <navPoint id="tH4221225-4">
+        <navLabel><text>Aufwachsen in öffentlicher Verantwortung</text></navLabel>
+        <content src="document-4.xhtml#H4221225" />
+      </navPoint>
+      <navPoint id="tH4339067-4">
+        <navLabel><text>Erst(haus)besuche/Willkommensprogramme</text></navLabel>
+        <content src="document-4.xhtml#H4339067" />
+      </navPoint>
+      <navPoint id="tH2595096-4">
+        <navLabel><text>Frühe Hilfen / Familienhebammen</text></navLabel>
+        <content src="document-4.xhtml#H2595096" />
+      </navPoint>
+      <navPoint id="tH1413114-4">
+        <navLabel><text>KiTa-Reihenuntersuchungen</text></navLabel>
+        <content src="document-4.xhtml#H1413114" />
+      </navPoint>
+      <navPoint id="tH3469382-4">
+        <navLabel><text>Schuleingangsuntersuchung, die ärztliche Untersuchung zur Einschulung</text></navLabel>
+        <content src="document-4.xhtml#H3469382" />
+        <navPoint id="tH9163802-4">
+          <navLabel><text>Untersuchungsbestandteile</text></navLabel>
+          <content src="document-4.xhtml#H9163802" />
+          <navPoint id="tH2978160-4">
+            <navLabel><text>Ausgewählte schulrelevante Bereiche</text></navLabel>
+            <content src="document-4.xhtml#H2978160" />
+            <navPoint id="tH3268475-4">
+              <navLabel><text>Seh- und Hörvermögen</text></navLabel>
+              <content src="document-4.xhtml#H3268475" />
+            </navPoint>
+            <navPoint id="tH3868751-4">
+              <navLabel><text>Auditive und visuelle Wahrnehmung und Verarbeitung</text></navLabel>
+              <content src="document-4.xhtml#H3868751" />
+            </navPoint>
+            <navPoint id="tH5870221-4">
+              <navLabel><text>Sprachkompetenz</text></navLabel>
+              <content src="document-4.xhtml#H5870221" />
+            </navPoint>
+            <navPoint id="tH974112-4">
+              <navLabel><text>Weitere Bereiche</text></navLabel>
+              <content src="document-4.xhtml#H974112" />
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="tH7948727-4">
+          <navLabel><text>Ergebnisse der Schuleingangsuntersuchungen und Konsequenzen</text></navLabel>
+          <content src="document-4.xhtml#H7948727" />
+        </navPoint>
+        <navPoint id="tH2592968-4">
+          <navLabel><text>Vorzeitige Einschulung</text></navLabel>
+          <content src="document-4.xhtml#H2592968" />
+        </navPoint>
+        <navPoint id="tH6649193-4">
+          <navLabel><text>Rückstellung vom Schulbesuch</text></navLabel>
+          <content src="document-4.xhtml#H6649193" />
+        </navPoint>
+        <navPoint id="tH862036-4">
+          <navLabel><text>Schulreife, Schulfähigkeit, Schulbereitschaft</text></navLabel>
+          <content src="document-4.xhtml#H862036" />
+          <navPoint id="tH8242613-4">
+            <navLabel><text>Gesundheitsberichterstattung</text></navLabel>
+            <content src="document-4.xhtml#H8242613" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="tH2255980-4">
+          <navLabel><text>Weitere schulärztliche Untersuchungen</text></navLabel>
+          <content src="document-4.xhtml#H2255980" />
+        </navPoint>
+        <navPoint id="tH5022749-4">
+          <navLabel><text>Schulärztliche Reihenuntersuchungen in anderen Jahrgängen</text></navLabel>
+          <content src="document-4.xhtml#H5022749" />
+        </navPoint>
+        <navPoint id="tH5447064-4">
+          <navLabel><text>Schulärztliche Untersuchung von Seiteneinsteigenden</text></navLabel>
+          <content src="document-4.xhtml#H5447064" />
+        </navPoint>
+        <navPoint id="tH6262754-4">
+          <navLabel><text>Schulabsentismus</text></navLabel>
+          <content src="document-4.xhtml#H6262754" />
+        </navPoint>
+        <navPoint id="tH9620151-4">
+          <navLabel><text>Schulabgangsuntersuchung</text></navLabel>
+          <content src="document-4.xhtml#H9620151" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="tH5140740-4">
+        <navLabel><text>Jugendarbeitsschutzgesetz</text></navLabel>
+        <content src="document-4.xhtml#H5140740" />
+      </navPoint>
+      <navPoint id="tH913618-4">
+        <navLabel><text>Asylbewerberleistungsgesetz</text></navLabel>
+        <content src="document-4.xhtml#H913618" />
+      </navPoint>
+      <navPoint id="tH4037093-4">
+        <navLabel><text>Zugewanderte Familien (ohne Krankenversicherung)</text></navLabel>
+        <content src="document-4.xhtml#H4037093" />
+      </navPoint>
+      <navPoint id="tH9637267-4">
+        <navLabel><text>Schengenabkommen</text></navLabel>
+        <content src="document-4.xhtml#H9637267" />
+      </navPoint>
+      <navPoint id="tH4913146-4">
+        <navLabel><text>Kinderschutz/Kindeswohlgefährdung</text></navLabel>
+        <content src="document-4.xhtml#H4913146" />
+      </navPoint>
+      <navPoint id="tH203097-4">
+        <navLabel><text>Stellungnahmen und Gutachten</text></navLabel>
+        <content src="document-4.xhtml#H203097" />
+        <navPoint id="tH1933602-4">
+          <navLabel><text>Eingliederungshilfe</text></navLabel>
+          <content src="document-4.xhtml#H1933602" />
+        </navPoint>
+        <navPoint id="tH2545147-4">
+          <navLabel><text>Bundesteilhabegesetz</text></navLabel>
+          <content src="document-4.xhtml#H2545147" />
+        </navPoint>
+        <navPoint id="tH2594061-4">
+          <navLabel><text>Frühförderung</text></navLabel>
+          <content src="document-4.xhtml#H2594061" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="tH9405632-4">
+        <navLabel><text>Infektionsschutz und Impfprävention</text></navLabel>
+        <content src="document-4.xhtml#H9405632" />
+        <navPoint id="tH5308790-4">
+          <navLabel><text>Kontrolle des Impfstatus</text></navLabel>
+          <content src="document-4.xhtml#H5308790" />
+        </navPoint>
+        <navPoint id="tH8615263-4">
+          <navLabel><text>Durchführung von Impfungen</text></navLabel>
+          <content src="document-4.xhtml#H8615263" />
+        </navPoint>
+        <navPoint id="tH6836663-4">
+          <navLabel><text>Mitwirkung bei Ausbrüchen von Infektionskrankheiten in Gemeinschaftseinrichtungen</text></navLabel>
+          <content src="document-4.xhtml#H6836663" />
+        </navPoint>
+        <navPoint id="tH2043789-4">
+          <navLabel><text>Belehrungen und Beratungen von Jugendlichen, gemäß der Arbeitsmedizinischen Vorsorge Verordnung</text></navLabel>
+          <content src="document-4.xhtml#H2043789" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_5_0-5">
+      <navLabel><text>KID04. Systemische Aspekte</text></navLabel>
+      <content src="document-5.xhtml#_5_0" />
+      <navPoint id="tdocs-internal-guid-3ed34f15-7fff-5375-5180-ad209d83f5c5-5">
+        <navLabel><text>Prävention und Gesundheitsförderung</text></navLabel>
+        <content src="document-5.xhtml#docs-internal-guid-3ed34f15-7fff-5375-5180-ad209d83f5c5" />
+      </navPoint>
+      <navPoint id="tH8532687-5">
+        <navLabel><text>Betriebsmedizinische Aufgaben in Kindergemeinschaftseinrichtungen und Schulen</text></navLabel>
+        <content src="document-5.xhtml#H8532687" />
+        <navPoint id="tH7956790-5">
+          <navLabel><text>Schulsprechstunden</text></navLabel>
+          <content src="document-5.xhtml#H7956790" />
+        </navPoint>
+        <navPoint id="tH5332745-5">
+          <navLabel><text>Schulgesundheits-Fachkräfte/School Nurses</text></navLabel>
+          <content src="document-5.xhtml#H5332745" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="tH2316419-5">
+        <navLabel><text>Gesetzliche Grundlagen</text></navLabel>
+        <content src="document-5.xhtml#H2316419" />
+        <navPoint id="tH9609378-5">
+          <navLabel><text>Bundesgesetze</text></navLabel>
+          <content src="document-5.xhtml#H9609378" />
+          <navPoint id="tH7395838-5">
+            <navLabel><text>Sozialgesetzbücher (SGB)</text></navLabel>
+            <content src="document-5.xhtml#H7395838" />
+          </navPoint>
+          <navPoint id="tH481412-5">
+            <navLabel><text>Bundeskinderschutzgesetz BKindSchG</text></navLabel>
+            <content src="document-5.xhtml#H481412" />
+          </navPoint>
+          <navPoint id="tH1216077-5">
+            <navLabel><text>Präventionsgesetz</text></navLabel>
+            <content src="document-5.xhtml#H1216077" />
+          </navPoint>
+          <navPoint id="tH8135633-5">
+            <navLabel><text>Jugendarbeitsschutzgesetz</text></navLabel>
+            <content src="document-5.xhtml#H8135633" />
+          </navPoint>
+          <navPoint id="tH8114892-5">
+            <navLabel><text>Psychisch-Kranken-Gesetze</text></navLabel>
+            <content src="document-5.xhtml#H8114892" />
+          </navPoint>
+          <navPoint id="tH1119288-5">
+            <navLabel><text>Asylbewerberleistungsgesetz</text></navLabel>
+            <content src="document-5.xhtml#H1119288" />
+          </navPoint>
+          <navPoint id="tH2374062-5">
+            <navLabel><text>Gute-Kita-Gesetz</text></navLabel>
+            <content src="document-5.xhtml#H2374062" />
+          </navPoint>
+          <navPoint id="tH3463047-5">
+            <navLabel><text>Kinderförderungsgesetz</text></navLabel>
+            <content src="document-5.xhtml#H3463047" />
+          </navPoint>
+          <navPoint id="tH9434091-5">
+            <navLabel><text>Infektionsschutzgesetz</text></navLabel>
+            <content src="document-5.xhtml#H9434091" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="tH987200-5">
+          <navLabel><text>Landesgesetze</text></navLabel>
+          <content src="document-5.xhtml#H987200" />
+          <navPoint id="tH4405830-5">
+            <navLabel><text>Ärztliche Berufsordnungen</text></navLabel>
+            <content src="document-5.xhtml#H4405830" />
+          </navPoint>
+          <navPoint id="tH4994684-5">
+            <navLabel><text>Gesetze über den öffentlichen Gesundheitsdienst</text></navLabel>
+            <content src="document-5.xhtml#H4994684" />
+          </navPoint>
+          <navPoint id="tH2690400-5">
+            <navLabel><text>Schulgesetz</text></navLabel>
+            <content src="document-5.xhtml#H2690400" />
+          </navPoint>
+          <navPoint id="tH506366-5">
+            <navLabel><text>Landeskinderschutzgesetze</text></navLabel>
+            <content src="document-5.xhtml#H506366" />
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="tH3554829-5">
+        <navLabel><text>Qualitätssicherung</text></navLabel>
+        <content src="document-5.xhtml#H3554829" />
+      </navPoint>
+      <navPoint id="tH8365751-5">
+        <navLabel><text>Regionale und überregionale Gesundheitsberichterstattung / Gremienarbeit</text></navLabel>
+        <content src="document-5.xhtml#H8365751" />
+      </navPoint>
+      <navPoint id="tH8532710-5">
+        <navLabel><text>Netzwerkbildung</text></navLabel>
+        <content src="document-5.xhtml#H8532710" />
+      </navPoint>
+      <navPoint id="tH1285354-5">
+        <navLabel><text>Öffentlichkeitsarbeit</text></navLabel>
+        <content src="document-5.xhtml#H1285354" />
+      </navPoint>
+      <navPoint id="tH2219544-5">
+        <navLabel><text>Fachverbände</text></navLabel>
+        <content src="document-5.xhtml#H2219544" />
+      </navPoint>
+      <navPoint id="tH7492875-5">
+        <navLabel><text>Nachwuchsgewinnung</text></navLabel>
+        <content src="document-5.xhtml#H7492875" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_6_0-6">
+      <navLabel><text>KID05. Ausblick</text></navLabel>
+      <content src="document-6.xhtml#_6_0" />
+    </navPoint>
+    <navPoint id="t_7_0-7">
+      <navLabel><text>KIDAnnex 01. Abkürzungen</text></navLabel>
+      <content src="document-7.xhtml#_7_0" />
+    </navPoint>
+    <navPoint id="t_8_0-8">
+      <navLabel><text>KIDAnnex 02. Weblinks</text></navLabel>
+      <content src="document-8.xhtml#_8_0" />
+      <navPoint id="tH3353465-8">
+        <navLabel><text>Webseiten A-Z</text></navLabel>
+        <content src="document-8.xhtml#H3353465" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_9_0-9">
+      <navLabel><text>KIDAnnex 03. Weiterführende Literatur</text></navLabel>
+      <content src="document-9.xhtml#_9_0" />
+      <navPoint id="tH9313130-9">
+        <navLabel><text>Allgemein</text></navLabel>
+        <content src="document-9.xhtml#H9313130" />
+      </navPoint>
+      <navPoint id="tH1061614-9">
+        <navLabel><text>Sprachentwicklung:</text></navLabel>
+        <content src="document-9.xhtml#H1061614" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_10_0-10">
+      <navLabel><text>KIDa. Beteiligte</text></navLabel>
+      <content src="document-10.xhtml#_10_0" />
+      <navPoint id="tH2562156-10">
+        <navLabel><text>Autoren/innen</text></navLabel>
+        <content src="document-10.xhtml#H2562156" />
+      </navPoint>
+      <navPoint id="tH3913069-10">
+        <navLabel><text>Anerkennung &amp; Danksagung</text></navLabel>
+        <content src="document-10.xhtml#H3913069" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_11_0-11">
+      <navLabel><text>KIDb. Über uns</text></navLabel>
+      <content src="document-11.xhtml#_11_0" />
+      <navPoint id="tH7871147-11">
+        <navLabel><text>Finanzierung</text></navLabel>
+        <content src="document-11.xhtml#H7871147" />
+      </navPoint>
+      <navPoint id="tH6184088-11">
+        <navLabel><text>Open Access</text></navLabel>
+        <content src="document-11.xhtml#H6184088" />
+      </navPoint>
+      <navPoint id="tH8887582-11">
+        <navLabel><text>Urheberrechtserklärung &amp; Lizenz</text></navLabel>
+        <content src="document-11.xhtml#H8887582" />
+      </navPoint>
+      <navPoint id="tH7706711-11">
+        <navLabel><text>Helfen Sie uns, das Lehrbuch zu verbessern</text></navLabel>
+        <content src="document-11.xhtml#H7706711" />
+      </navPoint>
+      <navPoint id="tH6104650-11">
+        <navLabel><text>Nachhaltigkeit und Weiterentwicklung</text></navLabel>
+        <content src="document-11.xhtml#H6104650" />
+      </navPoint>
+      <navPoint id="tH7839863-11">
+        <navLabel><text>Methode</text></navLabel>
+        <content src="document-11.xhtml#H7839863" />
+      </navPoint>
+      <navPoint id="tentstehungsprozess-11">
+        <navLabel><text>Entstehungsprozess</text></navLabel>
+        <content src="document-11.xhtml#entstehungsprozess" />
+      </navPoint>
+      <navPoint id="tH269972-11">
+        <navLabel><text>Haftungsausschluss (Disclaimer)</text></navLabel>
+        <content src="document-11.xhtml#H269972" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_12_0-12">
+      <navLabel><text>KIDc. Impressum</text></navLabel>
+      <content src="document-12.xhtml#_12_0" />
+    </navPoint>
+    <navPoint id="t2">
+      <navLabel><text>Copyright</text></navLabel>
+      <content src="copyright.xhtml#copyright" />
+    </navPoint>
+  </navMap>
+</ncx>

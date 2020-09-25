@@ -1,0 +1,4 @@
+images
+
+{% include image.html url="images/eb93d289-00ad-4fe2-8af7-a14bdae7fff2.jpg" description="Abbildung 17: Fluss-Schema
+Beratung" %}
