@@ -7,7 +7,7 @@ DOI <a href="https://doi.org/10.20389/q2rj-f244" title="https://doi.org/10.20389
 Datum 2020<br/>
 Ort Berlin</p>
 
-Webseite: <a href="https://akademie-oeffentliches-gesundheitswesen.github.io/GlobaleGesundheit/" title="https://akademie-oeffentliches-gesundheitswesen.github.io/GlobaleGesundheit/">https://akademie-oeffentliches-gesundheitswesen.github.io/GlobaleGesundheit/</a> | [PDF](https://akademie-oeffentliches-gesundheitswesen.github.io/GlobaleGesundheit/screen-pdf/Globale-Gesundheit-v2.pdf) |  [webbuch](https://akademie-oeffentliches-gesundheitswesen.github.io/GlobaleGesundheit/vivliostyle/index.html#src=../webbuch/start.xhtml&bookMode=true&)
+Webseite: <a href="https://akademie-oeffentliches-gesundheitswesen.github.io/GlobaleGesundheit/" title="https://akademie-oeffentliches-gesundheitswesen.github.io/GlobaleGesundheit/">https://akademie-oeffentliches-gesundheitswesen.github.io/GlobaleGesundheit/</a> | [PDF](https://akademie-oeffentliches-gesundheitswesen.github.io/GlobaleGesundheit/screen-pdf/start.pdf) | [webbuch](https://akademie-oeffentliches-gesundheitswesen.github.io/GlobaleGesundheit/vivliostyle/index.html#src=../webbuch/start.xhtml&bookMode=true&)
 
 # Über das Lehrbuch
 

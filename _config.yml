@@ -14,9 +14,9 @@ aux_links:
   "Lehrbuch auf GitHub":
     - "https://github.com/akademie-oeffentliches-gesundheitswesen/GlobaleGesundheit"
   "PDF":
-    - "screen-pdf/Globale-Gesundheit-v2.pdf"
+    - "screen-pdf/start.pdf"
   "Web-Buch":
-    - "vivliostyle/index.html#src=../webbuch/start.xhtml&bookMode=true&"
+    - "vivliostyle/index.html#src=../webbuch/start.xhtml&bookMode=true"
 
 logo: "/images/akademie.png"
 
