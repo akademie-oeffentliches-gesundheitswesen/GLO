@@ -4,47 +4,38 @@ title: Startseite
 nav_order: 1
 ---
 
-![Der Kinder- und Jugendgesundheitsdienst Buch](images/cover.png "Der Kinder- und Jugendgesundheitsdienst Buch"){:.imgcover}
-*Der Kinder- und Jugendgesundheitsdienst - Lehrbuch für den Öffentlichen Gesundheitsdienst*
+![Globale Gesundheit Buch](images/cover.png "Globale Gesundheit Buch"){:.imgcover}
+*Globale Gesundheit - Lehrbuch für den Öffentlichen Gesundheitsdienst*
 
-Der Kinder- und Jugendgesundheitsdienst (KJGD) ist einer der zentralen
-Bereiche im Öffentliche Gesundheitsdienst (ÖGD). Er hat sich von der
-Einführung schulärztlicher Tätigkeit vor fast 150 Jahren immer wieder
-ändernden gesellschaftlichen Rahmenbedingungen angepasst und wurde
-weiterentwickelt. Die Arbeit im KJGD wurden in den letzten Jahrzehnten
-zunehmend methodisch standardisiert und konsekutiv ausgebaut, so das die
-heutigen Aufgaben weit über die ursprünglichen schulärztlichen Aufgaben
-hinausgehen.
+Durch die COVID-19 Pandemie hat sich die Wahrnehmung des Öffentlichen
+Gesundheitsdienst (ÖGD) innerhalb weniger Monaten deutlich verändert. Seine
+Tätigkeit an der Schnittstelle von Öffentlicher und Globaler Gesundheit sind
+plötzlich für Politik und Gesellschaft Alltagsbestandteil geworden. Zuvor wurde
+die Arbeit im ÖGD selten in Verbindung mit Globaler Gesundheit gebracht.
 
-Vor diesem Hintergrund ist es an der Zeit ein eigenständiges Lehrbuch
-für die im KJGD tätigen Ärztinnen und Ärzte, sowie alle interessierten
-Mitarbeiterinnen und Mitarbeiter in diesem Bereich zu erarbeiten und
-dabei die Ausgestaltung der Aufgaben und Tätigkeitsbereich umfangreich
-zu beschreiben.
+Das vorliegende Lehrbuch betrachtet Schnittstellen von Öffentlicher und Globaler
+Gesundheit am Beispiel des ÖGD. Neben einer Einführung in beide Themenfelder
+werden deren Verbindungen in der ÖGD Praxis dargestellt. Es werden
+Einstiegsmöglichkeiten und Karrierewege im ÖGD aufgezeigt sowie Menschen im ÖGD,
+die an Schnittstellen von Öffentlicher und Globaler Gesundheit arbeiten,
+vorgestellt.
 
-**Ein effektiver KJGD ist heute nicht nur notwendig, sondern angesichts
-der zunehmenden gesellschaftlichen Herausforderungen, wie beispielsweise
-durch die Inklusion, wichtiger denn je.**
+Dieses Lehrbuch richtet sich insbesondere an Auszubildende und Fachkräfte in der
+Medizin und anderen Gesundheitswissenschaften mit Interesse an Öffentlicher und
+Globaler Gesundheit. Sie sollen in unterschiedlichen Phasen ihrer Karriere auf
+die Berufsfelder im ÖGD als Alternativen oder Ergänzung zu klassischen
+Klinik-Biographien aufmerksam gemacht werden. Durch das Lehrbuch können
+allerdings auch bereits im ÖGD tätige Menschen Bezüge und Querverbindungen
+zwischen Öffentlicher und Globaler Gesundheit kennenlernen.
 
-Das Lehrbuch soll Mitarbeitern/innen in Gesundheitsämtern, aber auch aus
-anderen Einrichtungen des ÖGD, Grundlegenden Prinzipien und Methoden,
-sowie praktische Erfahrungen vermitteln damit diese sich zielgerecht auf
-die Arbeiten im KJGD vorbereiten können. Neben fachlichen
-Gesichtspunkten werden insbesondere Handlungsempfehlungen für die
-alltägliche Arbeit im Gesundheitsamt auf kommunaler Ebene gegeben. Eine
-ausführliche Literaturliste ergänzt das Lehrbuch als praktische
-Hilfsmittel.
-
-Die in diesem einzigartigen Lehrbuch zusammengefassten Inhalte beruhen
-auf jahrelanger theoretischer Auseinandersetzung und praktischer
-Erfahrung der Autoren/innen im ÖGD. **Das vorliegende Lehrbuch ist ein
-Gemeinschaftswerk aller beteiligten Autorinnen und Autoren und ist nicht
-die Meinung einzelner Institutionen oder einzelner Autoren und
-Autorinnen.**
-
-Es wird zukünftig aktualisiert und erweitert werden. Wir freuen uns
-daher, wenn Sie uns Ihre Anregungen, Kommentare und Ergänzungen
-mitteilen. Schicken Sie diese bitte an lehrbuch@akademie-oegw.de
+Das vorliegende Lehrbuch ist Teil einer Open-Access-Lehrbuchreihe, die für die
+praktische Arbeit im ÖGD erarbeitet wurden. Hierbei handelt es sich um ein
+gemeinsames Projekt der Akademie für Öffentliches Gesundheitswesen und des [Open
+Science Lab](https://www.tib.eu/de/forschung-entwicklung/open-science) der
+[Technischen Informationsbibliothek](https://www.tib.eu/) (TIB) des
+Leibniz-Informationszentrums Technik und Naturwissenschaften, gefördert durch
+das [Bundesministerium für
+Gesundheit](https://www.bundesgesundheitsministerium.de/).
 
 Wir nutzen
 **[Hypothes.is](https://hypothes.is/ "https://hypothes.is/")** für Ihre
