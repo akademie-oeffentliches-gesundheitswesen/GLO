@@ -16,7 +16,7 @@ aux_links:
   "PDF":
     - "screen-pdf/Globale-Gesundheit-v2.pdf"
   "Web-Buch":
-    - "vivliostyle/#src=../webbuch/index.xhtml&bookMode=true&"
+    - "vivliostyle/index.html#src=../webbuch/start.xhtml&bookMode=true&"
 
 logo: "/images/akademie.png"
 
