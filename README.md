@@ -1,38 +1,133 @@
-# Buchvorlage
+# Impressum
 
-# Vivliostyle 2.1.1
+<p>Globale Gesundheit<br/>
+Lehrbuch für den Öffentlichen Gesundheitsdienst<br/>
+ISBN 978-0-0000000-0-0<br/>
+DOI <a href="https://doi.org/10.20389/q2rj-f244" title="https://doi.org/10.20389/q2rj-f244">10.20389/q2rj-f244</a><br/>
+Datum 2020<br/>
+Ort Berlin</p>
 
-Webbuch: https://akademie-oeffentliches-gesundheitswesen.github.io/Buchvorlage/vivliostyle/#src=../webbuch/&bookMode=true&
+Webseite: <a href="https://akademie-oeffentliches-gesundheitswesen.github.io/GlobaleGesundheit/" title="https://akademie-oeffentliches-gesundheitswesen.github.io/GlobaleGesundheit/">https://akademie-oeffentliches-gesundheitswesen.github.io/GlobaleGesundheit/</a> | [PDF](https://akademie-oeffentliches-gesundheitswesen.github.io/GlobaleGesundheit/screen-pdf/Globale-Gesundheit-v2.pdf) | [webbuch](https://akademie-oeffentliches-gesundheitswesen.github.io/GlobaleGesundheit/webbuch/index.html#src=GlobaleGesundheit/GlobaleGesundheit-v1.xhtml&bookMode=true)
 
-From here: https://akademie-oeffentliches-gesundheitswesen.github.io/Buchvorlage/vivliostyle/
+# Über das Lehrbuch
 
-add unzipped EPUB by pasting in ../webbuch/
+Das vorliegende Buch ist ein kostenfrei zugängliches Hand- und Lehrbuch
+(CC BY-SA 4.0). Es ist für Mitarbeiterinnen und Mitarbeiter im
+Öffentlichen Gesundheitsdienst (ÖGD), Interessierte und lebenslang
+Lernenden ein Lehrbuch zum Thema Öffentliche Gesundheit, ein Handbuch
+für die praktische Arbeit im Öffentlichen Gesundheitsdienst und
+zugleich eine umfassende Hintergrundlektüre.
 
-Note: /vivliostyle and /webbuch are on the same directory level
+Die in diesem einzigartigen Lehr- und Handbuch zusammengefassten Inhalte
+beruhen auf jahrelanger theoretischer Auseinandersetzung und praktischer
+Erfahrung der Autorinnen und Autoren im ÖGD.
 
-# Running Jekyll locally
+Im Gegensatz zu den Fachgebieten der klinisch-kurativen Medizin
+existierte bislang für Ärztinnen und Ärzte mit einer Facharzt
+Ausrichtung in Bevölkerungsmedizin kein spezifisches Fachbuch. Das
+vorliegende Werk ist Teil einer umfassenden Lehr- und Handbuchreihe für
+die praktische Arbeit im ÖGD mit dem sich Ärztinnen und Ärzte in
+Weiterbildung zum Facharzt für Öffentliches Gesundheitswesen auf die
+Facharztprüfung vorbereiten konnten. Und für alle Ärztinnen und Ärzte
+die aus anderen Fachrichtungen in den ÖGD wechseln, ist das vorliegende
+Buch eine Möglichkeit zur theoretischen Vorbereitung auf die praktische
+Arbeit im ÖGD und eine theoretische Stütze während der praktischen
+Tätigkeit. Für Studierende und Interessierte ist das Buch eine
+Einführung in den Bereich Öffentliche Gesundheit.
 
-Follow the instructions here https://docs.github.com/en/enterprise/2.14/user/articles/setting-up-your-github-pages-site-locally-with-jekyll
+Ein weiteres Ziel ist des Buches ist es eine Grundlage für die Lehre an
+der Akademie für öffentliches Gesundheitswesen, an Universitäten und
+Hochschulen zu dienen und durch Vollständigkeit und Aktualität zur
+Qualitätssicherung der praktischen Arbeit beizutragen.
 
-If Gemfile already present on top level of repository then just serve with
+# Finanzierung
 
-> bundle exec jekyll serve --incremental
+Das Projekt wurde durch das [Bundesministerium für
+Gesundheit](https://www.bundesgesundheitsministerium.de) (BMG)
+gefördert.
 
-Gemfile will have this contents
+# Das Lehrbuch zitieren
 
-source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
+Bitte zitieren Sie das Handbuch, wenn Sie den Inhalt verwenden. Um das
+Buch zu zitieren, empfehlen wir, dass Sie sich entweder beziehen
 
-Site will be on http://127.0.0.1:4000/
+**● ​<https://book.fosteropenscience.eu/>, which is the most friendly
+way to read the book (also available as
+[PDF](https://legacy.gitbook.com/download/pdf/book/open-science-training-handbook/book),
+[ePub](https://legacy.gitbook.com/download/epub/book/open-science-training-handbook/book)
+and
+[Mobi](https://legacy.gitbook.com/download/mobi/book/open-science-training-handbook/book)),
+to comment and to suggest changes, or**
 
-On windows add: gem 'wdm'
+**● ​<https://doi.org/10.5281/zenodo.1212496>, which is a citable DOI
+refering to a (hardly comprehensible) archived dump of the book.**
 
-# Markdown
+# Nachhaltigkeit und Weiterentwicklung
 
-## Images
+Das Ergebnis des gemeinsame Schreibprozesses wurde und wird
+kontinuierlich ergänzt und verbessert. Hierbei können auch Leserinnen
+und Leser selbst durch Feedback und Ergänzungen aktiv werden. Den
+Autorinnen und Autoren aller Texte ist bewusst, dass mit den bisher
+abgedeckten Themenbereichen nur ein Teil des gesamten
+Tätigkeitsspektrums des ÖGD dargestellt ist.
 
-Use:
+Da es sich um ein agiles Projekt handelt, das in Anbindung an die
+Akademie für Öffentliches Gesundheitswesen stetig weiterentwickelt
+werden soll, ist neben einer fortlaufenden Aktualisierung der
+bestehenden Kapitel auch eine Ergänzung durch weitere Themengebiete
+möglich.
 
-{% include image.html url="65b1a628-3996-4bd2-8933-b3c50774f530.png" description="Tabelle 1: KJGD relevante Regelungen in den GDGs der Länder" %}
+# Helfen Sie uns, das Handbuch zu verbessern
 
-Add images for Jekyll to: /images
+Wir freuen uns über Kommentare und Feedback von allen, unabhängig von
+ihrem Fachwissen oder Hintergrund. Schreiben Sie eine E-Mail an
+<Tinnemann@akademie-oegw.de>
+
+Das Handbuch wird als GitHub-Repository zur Verfügung gestellt.
+
+# Licence, Copyright
+
+## Open-Access
+
+Das Anliegen öffentliche finanzierte Forschung und Lehre zur
+Verbesserung der Öffentlichen Gesundheit zu fördern ist die Grundlage
+für dieses online kostenfrei zugängliche Lehr-und Handbuch. Zentral ist
+dabei, dass alle Mitarbeiterinnen und Mitarbeiter im ÖGD, interessierte
+Fachöffentlichkeit und die Öffentlichkeit insgesamt jederzeit Zugang zu
+dem besten verfügbaren Wissen zum Thema Öffentliche Gesundheit haben.
+
+Wir arbeiten daran, das Sie die aktuellsten Version des Lehr-und
+Handbuchs on-demand gedruckt erhalten können und werden alsbald
+entsprechende Informationen dazu hier einfügen.
+
+## Copyright statement
+
+Das Lehrbuch ist eine Open Educational Resource (OER), daher verfügbar
+unter der Creative Commons: Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0) (mehr:
+<https://creativecommons.org/licenses/by-sa/4.0/deed.de>). Sie dürfen das
+Material in jedwedem Format oder Medium vervielfältigen und
+weiterverbreiten, es remixen, verändern und darauf aufbauen. Der
+Lizenzgeber behält sich vor diese Freiheiten nicht zu widerrufen solange
+Sie sich an die folgenden Lizenzbedingungen halten: Sie müssen
+[angemessene Urheber- und Rechteangaben
+machen](https://creativecommons.org/licenses/by-sa/4.0/deed.de), einen
+Link zur Lizenz beifügen und angeben, ob [Änderungen
+vorgenommen](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
+werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
+unterstütze gerade Sie oder Ihre Nutzung besonders. Sie dürfen das
+Material nicht für [kommerzielle
+Zwecke](https://creativecommons.org/licenses/by-nc/4.0/deed.de) nutzen.
+Sie dürfen keine zusätzlichen Klauseln oder [technische
+Verfahren](https://creativecommons.org/licenses/by-nc/4.0/deed.de)
+einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz
+erlaubt.
+
+Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+
+Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die
+Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere
+Rechte wie [Persönlichkeits- und
+Datenschutzrechte](https://creativecommons.org/licenses/by-nc/4.0/deed.de)
+zu beachten sein, die Ihre Nutzung des Materials entsprechend
+beschränken.
