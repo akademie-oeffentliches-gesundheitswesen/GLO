@@ -16,7 +16,7 @@ aux_links:
   "PDF":
     - "screen-pdf/Globale-Gesundheit-v2.pdf"
   "Web-Buch":
-    - "https://akademie-oeffentliches-gesundheitswesen.github.io/GlobaleGesundheit/vivliostyle/#src=../webbuch/&bookMode=true&"
+    - "vivliostyle/#src=../webbuch/index.xhtml&bookMode=true&"
 
 logo: "/images/akademie.png"
 
