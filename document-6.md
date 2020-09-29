@@ -277,7 +277,7 @@ Medizinstudium (Havemann and Bösner 2018).
 
 ![](images/c3a92a8e-72a4-4cb6-a16d-92a4aa947e8f.jpg)
 
-AbbildungZielgruppen von Lehre zu Globaler Gesundheit (aus Havemann,
+Abbildung 16: Zielgruppen von Lehre zu Globaler Gesundheit (aus Havemann,
 Boesner 2018)
 
 Die im Zusammenhang mit Globaler Gesundheit unterrichteten Themen und
