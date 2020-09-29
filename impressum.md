@@ -1,7 +1,7 @@
 ---
 layout: page
 title: c. Impressum
-nav_order: 14
+nav_order: 15
 ---
 
 <p>© 2020 die Autoren. Creative Commons: Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0) <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">https://creativecommons.org/licenses/by-sa/4.0/deed.de</a></p>

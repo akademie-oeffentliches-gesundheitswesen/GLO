@@ -1,7 +1,7 @@
 ---
 layout: page
 title: b. Über uns
-nav_order: 11
+nav_order: 14
 ---
 
 Des Lehr- und Handbuch ist ein gemeinsames Projekt der [Akademie für
