@@ -14,7 +14,7 @@ nav_order: 10
 
 **BMG** Bundesministerium für Gesundheit
 
-**BVL**Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
+**BVL** Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 
 **BZgA** Bundeszentrale für gesundheitliche Aufklärung
 

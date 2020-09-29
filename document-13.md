@@ -32,7 +32,7 @@ Auslandsaufenthalte.**
 [https://www.coursera.org/lecture/global-health/who-are-the-key-actors-in-global-health-part-1-LACqY](https://www.coursera.org/lecture/global-health/who-are-the-key-actors-in-global-health-part-1-LACqY "https://www.coursera.org/lecture/global-health/who-are-the-key-actors-in-global-health-part-1-LACqY")
 
 **Curriculum des theoretischen
-Facharztweiterbildungskurs.**[https://www.akademie-oegw.de/fileadmin/customers-data/aktuelles/Newsletter\_04\_2019/Curriculum\_v2019-04-04.pdf](https://www.akademie-oegw.de/fileadmin/customers-data/aktuelles/Newsletter_04_2019/Curriculum_v2019-04-04.pdf)
+Facharztweiterbildungskurs.** [https://www.akademie-oegw.de/fileadmin/customers-data/aktuelles/Newsletter\_04\_2019/Curriculum\_v2019-04-04.pdf](https://www.akademie-oegw.de/fileadmin/customers-data/aktuelles/Newsletter_04_2019/Curriculum_v2019-04-04.pdf)
 
 **Deutsche Gesellschaft für Public Health.**
 [http://www.deutsche-gesellschaft-public-health.de/](http://www.deutsche-gesellschaft-public-health.de/ "http://www.deutsche-gesellschaft-public-health.de/")
@@ -45,15 +45,15 @@ Facharztweiterbildungskurs.**[https://www.akademie-oegw.de/fileadmin/customers-d
 
 **Forschung mit Weitblick - ein Handbuch für Studierende mit Interesse
 an
-Global-Health-Forschung.**[https://www.gha-d.org/ressourcen/forschung-handbuch](https://www.gha-d.org/ressourcen/forschung-handbuch "https://www.gha-d.org/ressourcen/forschung-handbuch")
+Global-Health-Forschung.** [https://www.gha-d.org/ressourcen/forschung-handbuch](https://www.gha-d.org/ressourcen/forschung-handbuch "https://www.gha-d.org/ressourcen/forschung-handbuch")
 
 **Food Deserts. Tulane University.**
 [https://socialwork.tulane.edu/blog/food-deserts-in-america](https://socialwork.tulane.edu/blog/food-deserts-in-america "https://socialwork.tulane.edu/blog/food-deserts-in-america")
 
 **Get Inspired: Doctors in Global
-Action.**[https://www.bvmd.de/unsere-arbeit/projekte/doctors-in-global-action/interviews/](https://www.bvmd.de/unsere-arbeit/projekte/doctors-in-global-action/interviews/ "https://www.bvmd.de/unsere-arbeit/projekte/doctors-in-global-action/interviews/")
+Action.** [https://www.bvmd.de/unsere-arbeit/projekte/doctors-in-global-action/interviews/](https://www.bvmd.de/unsere-arbeit/projekte/doctors-in-global-action/interviews/ "https://www.bvmd.de/unsere-arbeit/projekte/doctors-in-global-action/interviews/")
 
-**Global Burden of Disease Study**.
+**Global Burden of Disease Study.** 
 [http://www.healthdata.org/gbd](http://www.healthdata.org/gbd "http://www.healthdata.org/gbd")
 
 **Global Health Alliance-Deutschland (GHA-D).**
