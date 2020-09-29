@@ -488,42 +488,22 @@ gegenwärtigen Herausforderungen sind Maßnahmen zur Stärkung des
 öffentlichen Gesundheitsdienstes in der unten stehenden Tabelle
 zusammengefasst ((von Philipsborn et al. 2018; Akçay et al. 2018).
 
-**Tabelle: Maßnahmen zur Stärkung der öffentlichen Gesundheit in
-Deutschland**
 
-Stärkung der Evidenzbasis des ÖGDs
 
-Verstärkte Kooperation von ÖGD und Wissenschaft
+| **Tabelle: Maßnahmen zur Stärkung der öffentlichen Gesundheit in Deutschland** |                                                                                                                                                                                      |
+|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Stärkung der Evidenzbasis des ÖGDs                                             | Verstärkte Kooperation von ÖGD und Wissenschaft                                                                                                                                      |
+|                                                                                | Entwicklung evidenzbasierter Leitlinien zu Fragen öffentlicher Gesundheit                                                                                                            |
+|                                                                                | Einrichtung einer Abteilung für öffentliche Gesundheit beim IQWIG oder Gründung eines eigenen Instituts mit entsprechendem Mandat                                                    |
+| Öffentliche Gesundheit in Politik und Gesellschaft                             |                                                                                                                                                                                      |
+|                                                                                | Aktiveres Einbringen der Fachgemeinschaft in politische und gesellschaftliche Debatten durch fachlich fundierte und politisch effektive Öffentlichkeits-, Lobby- und Kampagnenarbeit |
+|                                                                                | Aufbau einer geschlossenen, handlungsfähigen und sichtbaren Fachvertretung aller mit Öffentlicher Gesundheit befassten Fachkräfte aus Praxis, Politik und Wissenschaft               |
+| Struktur und Organisation des ÖGDs                                             | Verstärkte Rekrutierung von Mitarbeitern/-innen mit interdisziplinären, sozialwissenschaftlichen und administrativen Qualifikationen                                                 |
+|                                                                                | Flächendeckende Einführung zeitgemäßer IT-Technik mit vereinheitlichter Datenerhebung und –auswertung                                                                                |
+|                                                                                | Angleichung der Entlohnung der ärztlichen Tätigkeit in ÖGD und Klinik                                                                                                                |
+|                                                                                | Modernisierung der Nomenklatur des ÖGDs                                                                                                                                              |
+|                                                                                | Stärkung der politischen Rolle des ÖGDs                                                                                                                                              |
 
-Entwicklung evidenzbasierter Leitlinien zu Fragen öffentlicher
-Gesundheit
-
-Einrichtung einer Abteilung für öffentliche Gesundheit beim IQWIG oder
-Gründung eines eigenen Instituts mit entsprechendem Mandat
-
-Öffentliche Gesundheit in Politik und Gesellschaft
-
-Aktiveres Einbringen der Fachgemeinschaft in politische und
-gesellschaftliche Debatten durch fachlich fundierte und politisch
-effektive Öffentlichkeits-, Lobby- und Kampagnenarbeit
-
-Aufbau einer geschlossenen, handlungsfähigen und sichtbaren
-Fachvertretung aller mit Öffentlicher Gesundheit befassten Fachkräfte
-aus Praxis, Politik und Wissenschaft
-
-Struktur und Organisation des ÖGDs
-
-Verstärkte Rekrutierung von Mitarbeitern/-innen mit interdisziplinären,
-sozialwissenschaftlichen und administrativen Qualifikationen
-
-Flächendeckende Einführung zeitgemäßer IT-Technik mit vereinheitlichter
-Datenerhebung und –auswertung
-
-Angleichung der Entlohnung der ärztlichen Tätigkeit in ÖGD und Klinik
-
-Modernisierung der Nomenklatur des ÖGDs
-
-Stärkung der politischen Rolle des ÖGDs
 
 Weitere Maßnahmen zur Stärkung des ÖGDs im Bereich Aus- und
 Weiterbildung sind ausführlich im Kapitel Aus-, Fort- & Weiterbildung
