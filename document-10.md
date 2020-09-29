@@ -18,37 +18,37 @@ nav_order: 10
 
 **BZgA** Bundeszentrale für gesundheitliche Aufklärung
 
-**DALY**Beeinträchtigungsbereinigte Lebensjahre (engl.
+**DALY** Beeinträchtigungsbereinigte Lebensjahre (engl.
 Disability-Adjusted Life Years)
 
 **DIMDI** Deutsches Institut für medizinische Dokumentation und
 Information
 
-**ECDC**Europäische Zentrum für die Prävention und die Kontrolle von
+**ECDC** Europäische Zentrum für die Prävention und die Kontrolle von
 Krankheiten (engl. European Centre for Disease Prevention and Control)
 
-**EPHO**Zentrale Aufgaben im Bereich der Öffentlichen Gesundheit (engl.
+**EPHO** Zentrale Aufgaben im Bereich der Öffentlichen Gesundheit (engl.
 Essential Public Health Operations)
 
 **GBE** Gesundheitsberichterstattung
 
 **GDG** Gesundheitsdienstgesetz(e) der Länder
 
-**HALE**Gesunde Lebenserwartung (engl. healthy life expectancy)
+**HALE** Gesunde Lebenserwartung (engl. healthy life expectancy)
 
-**HiAP**Gesundheit in allen Politikbereichen (engl. health in all
+**HiAP** Gesundheit in allen Politikbereichen (engl. health in all
 policies)
 
 **IfSG** Infektionsschutzgesetz
 
-**IGV (IHR)**Internationale Gesundheitsvorschriften (engl. International
+**IGV (IHR)** Internationale Gesundheitsvorschriften (engl. International
 Health Regulations)
 
 **IMPP** Institut für medizinische und pharmazeutische Prüfungsfragen
 
 **KLUG** Deutsche Allianz für Klimawandel und Gesundheit
 
-**LE**Lebenserwartung (engl. Life Expectancy)
+**LE** Lebenserwartung (engl. Life Expectancy)
 
 **LMIC** Niedrig- und Mittellohn Ländern (engl. low-and middle-income
 countries)
@@ -65,7 +65,7 @@ disease)
 **NRO/NGO** Nichtregierungsorganisationen (engl. non-governmental
 organizations)
 
-**ÖGD**Öffentlicher Gesundheitsdienst
+**ÖGD** Öffentlicher Gesundheitsdienst
 
 **ÖGW** Öffentliches Gesundheitswesen
 
@@ -96,18 +96,18 @@ coverage)
 
 **UN** United Nations
 
-**UNFPA**Programme des Bevölkerungsfonds (engl. United Nations
+**UNFPA** Programme des Bevölkerungsfonds (engl. United Nations
 Populations Fund)
 
-**UNICEF**Kinderhilfswerk der Vereinten Nationen (eng. United Nations
+**UNICEF** Kinderhilfswerk der Vereinten Nationen (eng. United Nations
 Childrends Fund)
 
-**(M)WBO**(Muster)Weiterbildungsordnung
+**(M)WBO** (Muster)Weiterbildungsordnung
 
 **WHO** Weltgesundheitsorganisation (engl. World Health Organisation)
 
-**YLD**Mit Beeinträchtigung gelebte Lebensjahre (engl. Years Lived with
+**YLD** Mit Beeinträchtigung gelebte Lebensjahre (engl. Years Lived with
 Disability)
 
-**YLL**Durch vorzeitigen Tod verlorene Lebensjahre (engl. Years of Life
+**YLL** Durch vorzeitigen Tod verlorene Lebensjahre (engl. Years of Life
 Lost)
