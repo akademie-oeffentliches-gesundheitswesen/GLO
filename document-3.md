@@ -135,7 +135,7 @@ gliedert.
 Die Akteure dieser Aktionsfelder sind in Kapitel 3 genauer beschrieben.
 Die verschiedenen Ansätze sind in Tabelle 1 visualisiert.
 
-TabelleUnterschiedliche Ansätze in der Globalen Gesundheit
+Tabelle 1: Unterschiedliche Ansätze in der Globalen Gesundheit
 
 ![](images/686da394-3457-4964-b6e5-a226b5e71438.svg)
 
@@ -191,7 +191,7 @@ abbilden (Havemann and Bösner 2018).
 
 ![](images/9efea35c-d9d6-4482-8026-e6e91f81471f.jpg)
 
-AbbildungDer Begriff Globale Gesundheit als Überbegriff (aus Havemann &
+Abbildung 1: Der Begriff Globale Gesundheit als Überbegriff (aus Havemann &
 Bösner, 2018)
 
 In ihren visuellen Darstellungen sind sie auf die zeitliche Entwicklung
@@ -203,7 +203,7 @@ integriert. 
 
 ![](images/f6e4a1c9-ada3-4f6c-860f-13c4d26b312c.jpg)
 
-AbbildungDie Entstehung und Entwicklung der Bezeichnung
+Abbildung 2: Die Entstehung und Entwicklung der Bezeichnung
 
 ### **Eine Gesundheit** {#docs-internal-guid-6aa892e7-7fff-a888-4aa0-74c1de29e512}
 
@@ -220,7 +220,7 @@ der Herausforderungen zu nennen.
 
 ![](images/0603ebdb-1662-4512-9c96-328535f8fbf7.png)
 
-AbbildungOne Health - als Verbindung zwischen Umwelt, Tier und
+Abbildung 3: One Health - als Verbindung zwischen Umwelt, Tier und
 menschlicher Gesundheit
 
 ### **Planetare Gesundheit** {#docs-internal-guid-11606073-7fff-d0f9-8a3b-34cf8c6b4649}
@@ -254,14 +254,14 @@ Energieversorgung mit dem Ziel der Reduktion von sowohl klimaschädlichen
 als auch gesundheitsschädlichen Emissionen wird als zunehmend dringlich
 wahrgenommen, um ein gutes und gesundes Überleben der menschlichen
 Zivilisation auf diesem Planeten zu ermöglichen. Es werden zahlreiche
-weitere Vorteile, sogenannte *Co-Benefits,*beschrieben, die sowohl dem
+weitere Vorteile, sogenannte *Co-Benefits*, beschrieben, die sowohl dem
 Schutz des Klimas und der Umwelt als auch der menschlichen Gesundheit
 dienen. In diesem Kontext gewinnt das Konzept Planetare Gesundheit
 aktuell zunehmend an Bedeutung.
 
 ![](images/3d052e8f-c6c0-4242-a494-d9a225064084.png)
 
-AbbildungVeränderung der Kontrollvariablen von Planetaren Grenzen, grüne
+Abbildung 4: Veränderung der Kontrollvariablen von Planetaren Grenzen, grüne
 Flächen markieren Räume, die nachhaltige Entwicklung ermöglichen (P=
 Phosphorus, N= Nitrogen, BII= Functional diversity, E/MSY= Genetic
 diversity). Quelle: Stockholm Resilience Centre)
@@ -385,7 +385,7 @@ Gesundheitssysteme. (Lindstrand et al. 2006)
 
 Gegen Ende der 70er Jahre erfolgte ein Richtungswechsel. In der Alma-Ata
 Konferenz 1978 wurde die **Basisversorgung (Primary Health Care**,
-PHC**)** Strategie beschlossen mit dem Slogan: „G*esundheit für alle im
+PHC**)** Strategie beschlossen mit dem Slogan: „*Gesundheit für alle im
 Jahr 2020*“. (World Health Organisation 1978) Die Grundelemente für die
 zukünftige öffentliche Gesundheit wurden dort gelegt: 
 
@@ -457,7 +457,7 @@ ehesten mit **Gesundheits(un)gleichheiten** übersetzt werden kann.
 
 ![](images/3479f29e-f869-438f-9b5e-de5bbeb95122.jpg)
 
-AbbildungIllustration der Konzepte Equality & Equity (Illustration:
+Abbildung 5: Illustration der Konzepte Equality & Equity (Illustration:
 Angus Maquire, https://www.storybasedstrategy.org)
 
 Diese zwei Begriffe unterscheiden sich in einem wichtigen Aspekt
@@ -489,7 +489,7 @@ vielen Lebensbereichen für Menschen mit Behinderungen. Dieses Konzept
 ist eng verknüpft mit dem Begriff der Sozialen Determinanten von
 Gesundheit, der im Folgenden erläutert wird.
 
-### **Soziale Determinanten von Gesundheit ** {#H6252727}
+### **Soziale Determinanten von Gesundheit** {#H6252727}
 
 Die Gesundheit von Menschen hängt nicht nur von der medizinischen
 Versorgung im Erkrankungsfall, sondern maßgeblich auch von den
@@ -499,7 +499,7 @@ geprägt von den sozialen, politischen, kulturellen und ökonomischen
 Systemen und Institutionen, die die Lebensrealitäten der Menschen
 bestimmen. In der Praxis heißt das:  Armut macht krank und Reiche leben
 länger.  Die Weltgesundheitsorganisation (WHO) hat hierfür den Begriff
-der **Sozialen Determinanten für Gesundheit**geprägt, der 2008 von der
+der **Sozialen Determinanten für Gesundheit** geprägt, der 2008 von der
 Kommission für Soziale Determinanten für Gesundheit veröffentlichte
 Bericht "[Closing the Gap in a generation - Health equity through action
 on the social determinants of
@@ -538,7 +538,7 @@ Organisation 2019b)).
 
 ![](images/4558c006-02fd-4739-8b6a-fb96cde27982.png)
 
-AbbildungVisuelle Darstellung unterschiedlicher UHC Dimensionen
+Abbildung 6: Visuelle Darstellung unterschiedlicher UHC Dimensionen
 
 UHC ist also ein Konzept, dass nicht nur die Gesundheitsfinanzierung und
 die Vermeidung von Armut verursachenden Gesundheitsausgaben umfasst,
@@ -616,7 +616,7 @@ inhaltliche Ziele und 62 Umsetzungs-Maßnahmen. 
 
 ![](images/50e0e122-9989-4f0c-8416-8b2ed853d83d.png)
 
-AbbildungNachhaltige Entwicklungsziele (Sustainable Development Goals,
+Abbildung 7: Nachhaltige Entwicklungsziele (Sustainable Development Goals,
 SDGs)
 
 Gesundheit in den SDGs findet sich im Ziel 3 wieder:
@@ -816,7 +816,6 @@ erarbeiten (Die Bundesregierung 2018b):
 > 2018 zwischen CDU, CSU und
 > SPD](https://www.bundesregierung.de/resource/blob/975226/847984/5b8bc23590d4cb2892b31c987ad672b7/2018-03-14-koalitionsvertrag-data.pdf "https://www.bundesregierung.de/resource/blob/975226/847984/5b8bc23590d4cb2892b31c987ad672b7/2018-03-14-koalitionsvertrag-data.pdf").)
 
-\
 Die neue Strategie zu Globale Gesundheit der Bundesregierung, beruhend
 auf dem 2013 verabschiedeten Konzept, wird derzeit (Stand August 2020)
 ausgearbeitet und ressortübergreifend abgestimmt (Die Bundesregierung
@@ -825,127 +824,3 @@ Deutschlands Engagement in Globale Gesundheit setzen, um die nationale
 und internationale Zusammenarbeit und Aufgabenteilung zum Erreichen der
 Ziele für nachhaltige Entwicklung (SDGs), welche die Vereinten Nationen
 in der Agenda 2030 vereinbarten, zu unterstützen.
-
-Literaturverzeichnis {#_3_1 .article-bibliography-header}
-====================
-
-Beaglehole, R, and R Bonita. 2010. “What Is Global Health?” *Global
-Health Action*. https://doi.org/10.3402/gha.v3i0.5142 .
-
-Bozorgmehr, K. 2010. “Rethinking the ‘global’ in Global Health: A
-Dialectic Approach.” *Globalization and Health*.
-https://doi.org/10.1186/1744-8603-6-19.
-
-Cole, D, S Jackson, and L Forman. 2017. “What Approaches Can Schools of
-Public Health Take to Engage in Global Health? Reflections on the
-Implications of a Conceptual Synthesis.” *Global Health Governance*.
-
-Die Bundesregierung. 2013. “Globale Gesundheitspolitik Gestalten -
-Gemeinsam Handeln - Verantwortung Wahrnehmen. Konzept Der
-Bundesregierung.” 2013.
-https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/Publikationen/Gesundheit/Broschueren/Globale\_Gesundheitspolitik-Konzept\_der\_Bundesregierung.pdf.
-
-———. 2018a. “Die Deutsche Nachhaltigkeitsstrategie.” 2018.
-https://www.bundesregierung.de/breg-de/themen/nachhaltigkeitspolitik/eine-strategie-begleitet-uns/die-deutsche-nachhaltigkeitsstrategie.
-
-———. 2018b. “Koalitionsvertrag Zwischen CDU, CSU Und SPD.” 2018.
-https://www.bundesregierung.de/resource/blob/975226/847984/5b8bc23590d4cb2892b31c987ad672b7/2018-03-14-koalitionsvertrag-data.pdf.
-
-Farmer, P, JY Kim, A Kleinmann, and M Basilico. 2013. *Reimagining
-Global Health*.
-
-Fried, LP, ME Bentley, P Buekens, DS Burke, JJ Frenk, MJ Klag, and HC
-Spencer. 2010. “Global Health Is Public Health.” *The Lancet*.
-https://doi.org/10.1016/S0140-6736(10)60203-6 .
-
-Havemann, M, and S Bösner. 2018. “Global Health as ‘Umbrella Term’ – a
-Qualitative Study among Global Health Teachers in German Medical
-Education.” *Globalization and Health*.
-https://doi.org/10.1186/s12992-018-0352-y.
-
-Hommes, F, S Drees, K Geffert, P von Philipsborn, and J Stratil. 2020a.
-“How Are Social Determinants of Health Represented in German Medical
-Education?: A Qualitative Content Analysis of Key-Curricular Documents.”
-*BMJ OPen*. https://doi.org/10.1136/bmjopen-2019-036026.
-
-———. 2020b. “Soziale Determinanten von Gesundheit Als Lehr- Und
-Prüfungsinhalte Im Medizinstudium.” *Gesundheitswesen*.
-https://doi.org/10.1055/a-1005-7082.
-
-Horton, R, R Beaglehole, R Bonita, J Raeburn, M McKee, and S Wall. 2014.
-“From Public to Planetary Health: A Manifesto.” *The Lancet*.
-https://doi.org/10.1016/S0140-6736(14)60409-8.
-
-Institute for Health Metrics and Evaluation (IHME). 2017. “Findings from
-the Global Burden of Disease Study.” 2017.
-http://ghdx.healthdata.org/record/global-burden-disease-study-2017-gbd-2017-reference-life-table.
-
-Kohler, Stefan. 2019. “Die Vermessung Der Globalen Gesundheit.”
-*Gesundheit Und Gesellschaft | Wissenschaft* 19(2): 16–23.
-
-Koplan, JP, C Bond, MH Merson, KS Reddy, MH Rodriguez, NK Sewankambo,
-and JN Wasserheit. 2009. “Towards a Common Definition of Global Health.”
-*Lancet*.
-
-Labonte, R, and M Gagnon. 2010. “Framing Health and Foreign Policy:
-Lessons for Global Health Diplomacy.” *Global Health*.
-
-Lawn, JE, J Rohde, S Rifkin, M Were, VK Paul, and M Chopra. 2008.
-“Alma-Ata 30 Years on: Revolutionary, Relevant, and Time to Revitalise.”
-*The Lancet*.
-
-Lindstrand, A, S Bergström, H Rosling, B Rubenson, B Stenson, and T
-Tylleskär. 2006. *Global Health - An Introductory Textbook*.
-
-Nachwuchsnetzwerks Öffentliche Gesundheit . 2019. “Eine
-Public-Health-Strategie Für Deutschland .”
-http://noeg.org/wp-content/uploads/2019/03/NO%CC%88G-Diskussionspapier-PH-Strategie-v1.pdf.
-
-Nationale Akademie der Wissenschaften Leopoldina, acatech – Deutsche
-Akademie der Technikwissenschaften. 2015. “Public Health in Deutschland
-- Strukturen, Entwicklungen Und Globale Herausforderungen.”
-https://www.leopoldina.org/uploads/tx\_leopublication/2015\_Public\_Health\_LF\_DE.pdf.
-
-Pan American Health Organisation/World Health Organisation. 2013.
-“Welcome to Health in All Policies.” 2013.
-https://www.paho.org/hq/index.php?option=com\_content&view=article&id=9361:2014-welcome-health-all-policies&Itemid=40258&lang=en.
-
-Robert Koch-Institut. 2019. “Allgemeines Zur
-Gesundheitsberichterstattung Des Bundes.” 2019.
-https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/Allgemeines/allgemeines\_node.html.
-
-Rockström, J, W Steffen, K Noone, A Persson, FS III Chapin, E Lambin, TM
-Lenton, et al. 2009. “Planetary Boundaries:Exploring the Safe Operating
-Space for Humanity. *Ecology and Society*.” *Ecology and Society*.
-http://www.ecologyandsociety.org/vol14/iss2/art32/.
-
-United Nations. 2015a. “Millennium Development Goals.” 2015.
-https://www.un.org/millenniumgoals/.
-
-———. 2015b. “Millenniums-Entwicklungsziele Bericht .”
-
-World Health Organisation. 1978. “Erklärung von Alma-Ata.” 1978.
-https://www.euro.who.int/\_\_data/assets/pdf\_file/0017/132218/e93944G.pdf.
-
-———. 1986. “Ottawa-Charta Zur Gesundheitsförderung.” 1986.
-https://www.euro.who.int/\_\_data/assets/pdf\_file/0006/129534/Ottawa\_Charter\_G.pdf?wa=IPEMBI18.
-
-———. 2005. “International Health Regulations.” 2005.
-https://www.who.int/ihr/publications/9789241596664/en/.
-
-———. 2008. “Commission on Social Determinants of Health - Final Report.”
-2008.
-https://www.who.int/social\_determinants/thecommission/finalreport/en/.
-
-———. 2018. “Astana Declaration: New Global Commitment to Primary Health
-Care for All.” 2018.
-https://www.who.int/pmnch/media/news/2018/astana-declaration/en/.
-
-———. 2019a. “Fact Sheet - Primary Health Care.” 2019.
-https://www.who.int/news-room/fact-sheets/detail/primary-health-care.
-
-———. 2019b. “Universal Health Coverage - Fact Sheet.” 2019.
-https://www.who.int/news-room/fact-sheets/detail/universal-health-coverage-(uhc).
-
-———. 2020. “Universal Coverage - Three Dimensions.” 2020.
-https://www.who.int/health\_financing/strategy/dimensions/en/.
