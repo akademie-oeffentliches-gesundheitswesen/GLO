@@ -16,7 +16,7 @@ Dr. med. Katharina Alpers {#H5589859}
 
 ![](images/12c425e3-3583-4115-bc1d-cd9644787486.jpg)
 
-FigureDr. med. Katharina Alpers
+Dr. med. Katharina Alpers
 
 **Beschreibung aktuelles Tätigkeitsfeld**
 
@@ -59,7 +59,7 @@ Dr. med. Florian Neuhann {#H1436143}
 
 ![](images/e074dd1a-077f-44d2-9c19-5eb0a643a7c4.jpg)
 
-FigureDr. med. Florian Neuhann
+Dr. med. Florian Neuhann
 
 **Beschreibung aktuelles Tätigkeitsfeld**
 
@@ -170,8 +170,6 @@ der Identifizierung von Ansatzpunkten zur Bewältigung der
 Herausforderungen müssen Politik und Praxis vor Ort überzeugt und in
 Verantwortung genommen werden. Dabei ist es essentiell, Projekte und
 Initiativen sowie globale politische Ansätze stets miteinzubeziehen.
-
- {#H5583580}
 
 Berit Uhlmann {#H4888346}
 -------------
