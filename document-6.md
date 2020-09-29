@@ -380,78 +380,11 @@ vor Ort kennenzulernen. Kasten X stellt exemplarisch Erfahrungen aus
 diesem PJ-Tertial dar, beschreibt den Aufbau und Inhalte des
 PJ-Tertials.
 
+| **Kasten: Das PJ-Tertial ÖGD im Gesundheitsamt Frankfurt a.M.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Erfahrungen** Die Erfahrungen sind sehr positiv: Bislang haben alle Studierende das PJ-Tertial als außerordentlich lehrreich und interessant bewertet. Die erste Studentin des praktischen Jahres konnte auf eine Ausbildungsstelle (Trainee-Stelle) zur Fachärztin für Öffentliches Gesundheitswesen im Gesundheitsamt Frankfurt am Main übernommen werden und hat mittlerweile, neben der zur Weiterbildung vorgeschriebenen Zeit in Einrichtungen des Öffentlichen Gesundheitsdienstes, auch ihre klinische Zeit annähernd abgeschlossen. Durch die Einführung der Möglichkeit, das PJ-Tertial in Frankfurt am Main ableisten zu können, konnten insgesamt bisher drei Absolventen für den Öffentlichen Gesundheitsdienst gewonnen werden. **Aufbau** Die Studierenden müssen alle Bereiche des Gesundheitsamtes durchlaufen, in denen Kontakt zu Patient/innen besteht. Das bedeutet, dass zum Beispiel der Bereich „Trinkwasser“ primär nicht Inhalt des Curriculums ist (gleichwohl aber zumindest zum Kennenlernen außerhalb des vorgegebenen Curriculums mit angeboten wird). Zum Abschluss des Tertials sind die Studierenden in den humanitären Sprechstunden des Amtes eigenständig eingebunden. Gerade dieser Abschnitt wird von den Studierenden als besonders lehrreich beschrieben, da sie hier ihr über die Zeit des klinischen Studiums erworbenes theoretisches Wissen einsetzen können. Es besteht weiterhin die Kooperation mit der Asylbewerber/innen-Sprechstunde der Missionsärztlichen Klinik in Würzburg, die von den PJ-Studierenden obligatorisch besucht wird. Zusätzlich sind die Studierenden für eine Woche in einer Sprechstunde für Wohnsitzlose und ebenfalls eine Woche in der ärztlichen Ambulanz des Flughafens Frankfurt im Einsatz. Die Lehrinhalte sind in Form eines Logbuches von jeder Studentin und jedem Studenten zu absolvieren. **Studentische Poliklinik (StuPoli)** Zusätzlich zur Möglichkeit, ein PJ-Tertial „Öffentliches Gesundheitswesen“ im Gesundheitsamt Frankfurt am Main ableisten zu können, ist 2015 durch die Medizinische Fakultät der Goethe-Universität Frankfurt am Main ein Wahlfach „Studentische Poliklinik (StuPoli)“ im Gesundheitsamt Frankfurt am Main etabliert worden. Hier lernen Studierende der klinischen Semester sämtliche zur umfassenden Betreuung von Menschen ohne Versicherungsschutz oder legalen Aufenthaltsstatus wesentlichen Schritte. Die Studierenden nehmen die Patienten/innen auf, erheben die Anamnese, können ihre Fertigkeiten in den Untersuchungstechniken anwenden (es kann auch eine Ultraschalluntersuchung durchgeführt und ein EKG angefertigt werden) und stellen schließlich eine Verdachtsdiagnose. Dies wird durch eine Ärztin oder einen Arzt des Gesundheitsamtes supervidiert und es werden die notwendigen nächsten Schritte festgelegt. In der StuPoli, die in den Praxisräumen der Humanitären Sprechstunde des Gesundheitsamtes stattfindet, ist eine Auswahl an Medikamenten vorrätig, die den Patienten direkt mitgegeben werden können. Zur studentischen Ausbildung gehört ebenso, dass durch den ÖGD Promotionen und Masterarbeiten angeboten und betreut werden. Zur Qualifikation als Betreuer/in bedarf es nicht zwingend einer Habilitation an einer medizinischen Fakultät, vielmehr können in Zusammenarbeit mit einer assoziierten Hochschule solche Arbeiten betreut werden. Hierbei können Fragestellungen umfassend bearbeitet werden, die durchaus Eingang in die tägliche Arbeit der Gesundheitsämter finden können. |
+
  
-
-+--------------------------------------------------------------------------+
-| **Kasten: Das PJ-Tertial ÖGD im Gesundheitsamt Frankfurt a.M.**          |
-+--------------------------------------------------------------------------+
-| **Erfahrungen**                                                          |
-|                                                                          |
-| Die Erfahrungen sind sehr positiv: Bislang haben alle Studierende das    |
-| PJ-Tertial als außerordentlich lehrreich und interessant bewertet.       |
-|                                                                          |
-| Die erste Studentin des praktischen Jahres konnte auf eine               |
-| Ausbildungsstelle (Trainee-Stelle) zur Fachärztin für Öffentliches       |
-| Gesundheitswesen im Gesundheitsamt Frankfurt am Main übernommen werden   |
-| und hat mittlerweile, neben der zur Weiterbildung vorgeschriebenen Zeit  |
-| in Einrichtungen des Öffentlichen Gesundheitsdienstes, auch ihre         |
-| klinische Zeit annähernd abgeschlossen.                                  |
-|                                                                          |
-| Durch die Einführung der Möglichkeit, das PJ-Tertial in Frankfurt am     |
-| Main ableisten zu können, konnten insgesamt bisher drei Absolventen für  |
-| den Öffentlichen Gesundheitsdienst gewonnen werden.                      |
-|                                                                          |
-| **Aufbau**                                                               |
-|                                                                          |
-| Die Studierenden müssen alle Bereiche des Gesundheitsamtes durchlaufen,  |
-| in denen Kontakt zu Patient/innen besteht. Das bedeutet, dass zum        |
-| Beispiel der Bereich „Trinkwasser“ primär nicht Inhalt des Curriculums   |
-| ist (gleichwohl aber zumindest zum Kennenlernen außerhalb des            |
-| vorgegebenen Curriculums mit angeboten wird). Zum Abschluss des Tertials |
-| sind die Studierenden in den humanitären Sprechstunden des Amtes         |
-| eigenständig eingebunden. Gerade dieser Abschnitt wird von den           |
-| Studierenden als besonders lehrreich beschrieben, da sie hier ihr über   |
-| die Zeit des klinischen Studiums erworbenes theoretisches Wissen         |
-| einsetzen können.                                                        |
-|                                                                          |
-| Es besteht weiterhin die Kooperation mit der                             |
-| Asylbewerber/innen-Sprechstunde der Missionsärztlichen Klinik in         |
-| Würzburg, die von den PJ-Studierenden obligatorisch besucht wird.        |
-| Zusätzlich sind die Studierenden für eine Woche in einer Sprechstunde    |
-| für Wohnsitzlose und ebenfalls eine Woche in der ärztlichen Ambulanz des |
-| Flughafens Frankfurt im Einsatz. Die Lehrinhalte sind in Form eines      |
-| Logbuches von jeder Studentin und jedem Studenten zu absolvieren.        |
-|                                                                          |
-| **Studentische Poliklinik (StuPoli)**                                    |
-|                                                                          |
-| Zusätzlich zur Möglichkeit, ein PJ-Tertial „Öffentliches                 |
-| Gesundheitswesen“ im Gesundheitsamt Frankfurt am Main ableisten zu       |
-| können, ist 2015 durch die Medizinische Fakultät der Goethe-Universität  |
-| Frankfurt am Main ein Wahlfach „Studentische Poliklinik (StuPoli)“ im    |
-| Gesundheitsamt Frankfurt am Main etabliert worden. Hier lernen           |
-| Studierende der klinischen Semester sämtliche zur umfassenden Betreuung  |
-| von Menschen ohne Versicherungsschutz oder legalen Aufenthaltsstatus     |
-| wesentlichen Schritte. Die Studierenden nehmen die Patienten/innen auf,  |
-| erheben die Anamnese, können ihre Fertigkeiten in den                    |
-| Untersuchungstechniken anwenden (es kann auch eine                       |
-| Ultraschalluntersuchung durchgeführt und ein EKG angefertigt werden) und |
-| stellen schließlich eine Verdachtsdiagnose. Dies wird durch eine Ärztin  |
-| oder einen Arzt des Gesundheitsamtes supervidiert und es werden die      |
-| notwendigen nächsten Schritte festgelegt. In der StuPoli, die in den     |
-| Praxisräumen der Humanitären Sprechstunde des Gesundheitsamtes           |
-| stattfindet, ist eine Auswahl an Medikamenten vorrätig, die den          |
-| Patienten direkt mitgegeben werden können.                               |
-|                                                                          |
-| Zur studentischen Ausbildung gehört ebenso, dass durch den ÖGD           |
-| Promotionen und Masterarbeiten angeboten und betreut werden. Zur         |
-| Qualifikation als Betreuer/in bedarf es nicht zwingend einer             |
-| Habilitation an einer medizinischen Fakultät, vielmehr können in         |
-| Zusammenarbeit mit einer assoziierten Hochschule solche Arbeiten betreut |
-| werden. Hierbei können Fragestellungen umfassend bearbeitet werden, die  |
-| durchaus Eingang in die tägliche Arbeit der Gesundheitsämter finden      |
-| können.                                                                  |
-+--------------------------------------------------------------------------+
-
 **Facharzt**/Fachärztin für **Öffentliches Gesundheitswesen** {#H810110}
 -------------------------------------------------------------
 
@@ -613,33 +546,17 @@ Tabellarisch wurden vom Nachwuchsnetzwerk Öffentliche Gesundheit (NÖG)
 Deutschland**aufgeführt, die Vorschläge für konkrete Inhalte einer
 solchen Reform der Facharztweiterbildung beinhalten (Akçay et al. 2018).
 
-**Tabelle: Maßnahmen zur Stärkung der öffentlichen Gesundheit in
-Deutschland**
+| **Tabelle: Maßnahmen zur Stärkung der öffentlichen Gesundheit in Deutschland** |                                                                                                                                                                                                                                          |
+|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Aus- und Weiterbildung                                                         | Stärkung interdisziplinärer *Schools of Public Health* und entsprechender Studiengänge, einschließlich solcher in Global Public Health                                                                                                   |
+|                                                                                | Flächendeckende Einrichtung von Lehrstühlen für Öffentliches Gesundheitswesen an medizinischen Fakultäten und stärkere Verankerung öffentlicher Gesundheit im Medizinstudium                                                             |
+|                                                                                | Schaffung strukturierter Karrierewege und berufsqualifizierender Aus- und Weiterbildungsmöglichkeiten für Absolvent/innen interdisziplinärer Public-Health-Studiengänge                                                                  |
+|                                                                                | Reform der Facharztweiterbildung für Öffentliches Gesundheitswesen mit Aufwertung der nicht-klinischen Abschnitte und der Public-Health spezifischen Weiterbildungsinhalte                                                               |
+|                                                                                | Schaffung integrierter Facharzt-PhD-Programme für Öffentliches Gesundheitswesen                                                                                                                                                          |
+|                                                                                | Perspektivisch die Etablierung einer einheitlichen Weiterbildung für Öffentliches Gesundheitswesen für medizinische und nicht-medizinische Fachkräfte in Anlehnung an die Weiterbildung zum *Public Health Consultant* in Großbritannien |
 
-Aus- und Weiterbildung
 
-Stärkung interdisziplinärer *Schools of Public Health*und entsprechender
-Studiengänge, einschließlich solcher in Global Public Health
 
-Flächendeckende Einrichtung von Lehrstühlen für Öffentliches
-Gesundheitswesen an medizinischen Fakultäten und stärkere Verankerung
-öffentlicher Gesundheit im Medizinstudium
-
-Schaffung strukturierter Karrierewege und berufsqualifizierender Aus-
-und Weiterbildungsmöglichkeiten für Absolvent/innen interdisziplinärer
-Public-Health-Studiengänge
-
-Reform der Facharztweiterbildung für Öffentliches Gesundheitswesen mit
-Aufwertung der nicht-klinischen Abschnitte und der Public-Health
-spezifischen Weiterbildungsinhalte
-
-Schaffung integrierter Facharzt-PhD-Programme für Öffentliches
-Gesundheitswesen
-
-Perspektivisch die Etablierung einer einheitlichen Weiterbildung für
-Öffentliches Gesundheitswesen für medizinische und nicht-medizinische
-Fachkräfte in Anlehnung an die Weiterbildung zum *Public Health
-Consultant* in Großbritannien
 
 Viele Studierende und Absolvent/innen der Medizin sind sehr an
 internationalem Austausch und an den grenzüberschreitenden Aspekten
