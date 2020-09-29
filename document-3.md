@@ -16,7 +16,7 @@ nav_order: 3
     Öffentliche Gesundheit (*Public Health*), Eine Gesundheit (*One
     Health*), Planetare Gesundheit (*Planetary Health*) einordnen.
 
--   
+-   Die Ergebnisse der "Krankheitslaste" (*Burden of Disease*)-Studie als wichtige Quelle für globale epidemiologische Trends einordnen.
 
 -   Unterschiede von Gesundheitsgerechtigkeit/-fairness (*Health
     Equity*) und Gesundheitsgleichheit (*Health Equality*) und den damit
