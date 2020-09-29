@@ -462,5 +462,3 @@ https://doi.org/10.1371/journal.pmed.0040308.
 World Health Organisation. 2020. “WHO Model Lists of Essential
 Medicines.” 2020.
 https://www.who.int/medicines/publications/essentialmedicines/en/.
-
-##
