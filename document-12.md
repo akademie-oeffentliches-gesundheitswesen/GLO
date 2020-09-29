@@ -1,4 +1,8 @@
-GLOa. Beteiligte
+---
+layout: page
+title: a. Beteiligte
+nav_order: 12
+---
 
 Autoren/innen {#H1364423}
 -------------
@@ -83,5 +87,3 @@ Projekt nicht möglich gewesen.
 
 **Dr. med. Ute Teichert** für den Enthusiasmus und die tatkräftige
 Unterstützung des Projektes.
-
-

@@ -159,5 +159,3 @@ Deutschland.**Leibniz-Institut für Sozialwissenschaften
 
 **World Bank Open Data**.
 [https://data.worldbank.org/](https://data.worldbank.org/)
-
- {#H6593209}

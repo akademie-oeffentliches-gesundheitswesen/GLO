@@ -1,4 +1,8 @@
-000b. Über uns
+---
+layout: page
+title: b. Über uns
+nav_order: 11
+---
 
 Des Lehr- und Handbuch ist ein gemeinsames Projekt der [Akademie für
 Öffentliches
@@ -184,5 +188,3 @@ werden lediglich zu Informationszwecken bereitgestellt und stellen keine
 Billigung von Websites oder anderen Quellen dar. Die Leser sollten sich
 bewusst sein, dass sich die in diesem Lehrbuch aufgeführten Websites
 ändern können.
-
- 

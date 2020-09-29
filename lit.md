@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Literaturverzeichnis
-nav_order: 20
+nav_order: 15
 ---
 
 # Literaturverzeichnis

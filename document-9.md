@@ -1,4 +1,8 @@
-GLO08. Kurzvorstellungen
+---
+layout: page
+title: Kurzvorstellungen
+nav_order: 9
+---
 
 Im Folgenden werden verschieden Personen vorgestellt mit besondere
 Karrieren und Lebenswege mit spannenden Bezügen zu Öffentlicher und

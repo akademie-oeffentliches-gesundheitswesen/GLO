@@ -4,8 +4,6 @@ title: Ausblick
 nav_order: 7
 ---
 
-{#H8330865}
-
 Megatrends wie Globalisierung, Urbanisierung, Digitalisierung,
 demografischer Wandel, oder Klimaveränderung und das Auftreten neuer
 Krankheiten beeinflussen die Gesundheit von Bevölkerungen und sind daher

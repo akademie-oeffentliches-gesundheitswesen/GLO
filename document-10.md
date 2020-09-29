@@ -1,4 +1,8 @@
-GLOAnnex-Abkürzungen
+---
+layout: page
+title: Annex-Abkürzungen
+nav_order: 10
+---
 
 **ÄAppO** Ärztlichen Approbations Ordnung
 
@@ -107,5 +111,3 @@ Disability)
 
 **YLL**Durch vorzeitigen Tod verlorene Lebensjahre (engl. Years of Life
 Lost)
-
-

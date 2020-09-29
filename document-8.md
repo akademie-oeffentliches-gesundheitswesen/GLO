@@ -1,4 +1,8 @@
-GLO07. Fallbeispiele
+---
+layout: page
+title: Fallbeispiele
+nav_order: 8
+---
 
 Fallbeispiel: Tuberkulose in der Klink {#H268243}
 --------------------------------------
