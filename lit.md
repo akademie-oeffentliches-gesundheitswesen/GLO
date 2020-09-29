@@ -128,3 +128,39 @@ https://www.who.int/news-room/fact-sheets/detail/universal-health-coverage-(uhc)
 
 ———. 2020. “Universal Coverage - Three Dimensions.” 2020.
 https://www.who.int/health\_financing/strategy/dimensions/en/.
+
+## Akteure in der Öffentlichen und Globalen Gesundheit
+
+Akçay, M, S Drees, K Geffert, M Havemann, F Hommes, P Jaehn, M Krisam,
+et al. 2018. “Öffentliche Gesundheit in Deutschland: Eine Perspektive
+Des Nachwuchses.” *Das Gesundheitswesen*. 03.
+https://doi.org/10.1055/a-0795-3477.
+
+Bill & Melinda Gates Foundation. 2020. “Foundation Fact Sheet.” 2020.
+https://www.gatesfoundation.org/who-we-are/general-information/foundation-factsheet.
+
+Bundesverband deutscher Stiftungen. 2020a. “Liste Der Größten
+Gemeinwohlorientierten Stiftungen.” 2020.
+https://www.stiftungen.org/stiftungen/zahlen-und-daten/liste-der-groessten-stiftungen.html\#tab208.
+
+———. 2020b. “Suche Nach Stiftungen Und Dienstleistern Für Stiftungen.”
+2020. https://stiftungssuche.de/.
+
+Havemann, M, and S Bösner. 2018. “Global Health as ‘Umbrella Term’ – a
+Qualitative Study among Global Health Teachers in German Medical
+Education.” *Globalisation and Health*.
+https://www.springermedizin.de/global-health-as-umbrella-term-a-qualitative-study-among-global-/15571538.
+
+Hoffman, SJ, and CB Cole. 2018. “Defining the Global Health System and
+Systematically Mapping Its Network of Actors.” *Global Health*.
+https://doi.org/10.1186/s12992-018-0340-2.
+
+Martens, J, and K Seitz. 2015. “Philanthropische Stiftungen Und
+Entwicklung.”
+
+Philipsborn, P von, K Geffert, F Hommes, S Drees, J Springer, and J
+Stratil. 2018. “Öffentlicher Gesundheitsdienst - Weg von Verstaubten
+Klischees.” *Deutsches Ärzteblatt*.
+
+The Global Fund. 2020. “Pledges and Contributions.” 2020.
+https://data-service.theglobalfund.org/file\_download/pledges\_contributions\_report/excel.
