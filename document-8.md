@@ -418,36 +418,3 @@ sexuelle Gesundheit oder Organisationen wie ‘pro familia’, die versuchen
 diese Lücke zu schließen. In vielen ländlichen Gegenden gibt es diese
 Option aber nicht, sodass eine weitere Barriere der geografischen
 Verfügbarkeit hinzukommt.
-
- {#H7410017}
-
- {#H3246129}
-
-Literaturverzeichnis {#_8_1 .article-bibliography-header}
-====================
-
-Bundesarbeitsgruppe Gesundheit/Illegalität. 2019. “Notfallhilfe Im
-Krankenhaus Für Menschen Ohne Papiere.”
-https://www.diakonie.de/fileadmin/user\_upload/Diakonie/PDFs/Broschuere\_PDF/BAG\_Gesundheit\_Illegalitaet\_Arbeitspapier\_Notfallhilfe\_im\_Krankenhaus\_August\_2019\_Web.pdf.
-
-Deutsche STI-Gesellschaft. 2020. “Frauengesundheit Und Sexuell
-Übertragbare Infektionen.” 2020.
-https://dstig.de/sexuelle-gesundheit/frauengesundheit.html.
-
-Deutsches Ärzteblatt. 2019. “Zahl Der Sexuell Übertragbaren Infektionen
-Steigt.” 2019.
-https://www.aerzteblatt.de/nachrichten/105687/Zahl-der-sexuell-uebertragbaren-Infektionen-steigt.
-
-Ingleby, D, and Petrova-Benedict. 2016. “Recommendations on Access to
-Health Services for Migrants in an Irregular Situation: An Expert
-Consensus.”
-https://migrationhealthresearch.iom.int/recommendations-access-health-services-migrants-irregular-situation-expert-consensus.
-
-Obrist, B, N Iteba, C Lengeler, A Makemba, C Mshana, R Nathan, S Alba,
-et al. 2007. “Access to Health Care in Contexts of Livelihood
-Insecurity: A Framework for Analysis and Action.” *PLOS Medicine*, 2007.
-https://doi.org/10.1371/journal.pmed.0040308.
-
-World Health Organisation. 2020. “WHO Model Lists of Essential
-Medicines.” 2020.
-https://www.who.int/medicines/publications/essentialmedicines/en/.
