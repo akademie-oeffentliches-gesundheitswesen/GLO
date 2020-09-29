@@ -146,131 +146,32 @@ beteiligt (Die Bundesregierung 2018).
 
 In der nachfolgenden Tabelle werden Bezüge zwischen globalen (bzw.
 planetaren) Gesundheitsthemen und ÖGD Aufgabenfeldern sowie den im ÖGD
-zuständigen Abteilungen dargestellt:\
+zuständigen Abteilungen dargestellt:
 
-**Tabelle:**Globale Herausforderungen und deren Bezug zur Praxis im ÖGD
+**Tabelle:** Globale Herausforderungen und deren Bezug zur Praxis im ÖGD
 
-+--------------------------+--------------------------+--------------------------+
-| **Globales               | **ÖGD Aufgabenfelder**   | **Abteilungen im ÖGD**   |
-| Gesundheitsthema**       |                          |                          |
-+--------------------------+--------------------------+--------------------------+
-| Umweltgesundheit und     | Umweltbezogener          | Umweltmedizin, Hygiene,  |
-| Klimawandel              | Gesundheitsschutz,       | Infektiologie,           |
-|                          | Beobachtung und          | politische Gremien       |
-|                          | Bewertung von            |                          |
-|                          | Umwelteinflüssen,        |                          |
-|                          | Beratung,                |                          |
-|                          | Hitzeaktionspläne,       |                          |
-|                          | Förderung von            |                          |
-|                          | Umweltgerechtigkeit      |                          |
-+--------------------------+--------------------------+--------------------------+
-| Global Burden of Disease | Gesundheitsberichterstat | Gesundheitsberichterstat |
-| Messung                  | tung                     | tung                     |
-+--------------------------+--------------------------+--------------------------+
-| Universal Health         | sozialkompensatorische   | Amtsärztlicher Dienst,   |
-| Coverage                 | Gesundheitsversorgung    | Kinder- und              |
-|                          |                          | Jugendgesundheitsdienst, |
-|                          |                          | Sozialpsychiatrischer    |
-|                          |                          | Dienst, Infektiologie    |
-+--------------------------+--------------------------+--------------------------+
-| Health in All Policies   | Gesundheit in allen      | Leitungsebene            |
-|                          | Politikfeldern der       | (Amtsleitung),           |
-|                          | Kommune/des Landes       | politische Gremien,      |
-|                          |                          | Politikberatung          |
-+--------------------------+--------------------------+--------------------------+
-| Internationale           | Gesundheitsschutz,       | Infektiologie, Hygiene,  |
-| Gesundheitsvorschriften  | Infektionsschutz         | Hafen- und               |
-|                          |                          | flughafenärztlicher      |
-|                          |                          | Dienst                   |
-+--------------------------+--------------------------+--------------------------+
-| Infektionserkrankungen   | Tuberkulose-             | Infektiologie, Hygiene,  |
-|                          | /HIV-Management,         | Amtsärztlicher Dienst    |
-|                          | Maßnahmen gemäß IfSG,    |                          |
-|                          | Ausbruchsmanagement,     |                          |
-|                          | Impfungen, STD-Beratung  |                          |
-+--------------------------+--------------------------+--------------------------+
-| Antibiotikaresistenzen   | Netzwerke zu             | Hygiene,                 |
-|                          | Multiresistenten         | Infektionsschutz         |
-|                          | Erregern (MRE), Hygiene  |                          |
-|                          | in medizinischen         |                          |
-|                          | Einrichtungen,           |                          |
-|                          | Surveillance von         |                          |
-|                          | Antibiotikaverbrauch und |                          |
-|                          | MRE                      |                          |
-+--------------------------+--------------------------+--------------------------+
-| Lebensmittelsicherheit   | Lebensmittelkontrolle,   | Lebensmittel-/Veterinärb |
-|                          | Hygiene in               | ehörde                   |
-|                          | Lebensmittelbetrieben    |                          |
-+--------------------------+--------------------------+--------------------------+
-| Gesundheitskompetenz     | Informationsveranstaltun | GBE, Amtsärztlicher      |
-| (Health Literacy)        | gen,                     | Dienst,                  |
-|                          | Öffentlichkeitsarbeit,   | Gesundheitsförderung,    |
-|                          | Aufklärungskampagnen,    | Sprechstunden, Projekte  |
-|                          | Gesundheitsberatung      |                          |
-+--------------------------+--------------------------+--------------------------+
-| Luftverschmutzung        | Umweltbezogener          | Umweltmedizin, Netzwerke |
-|                          | Gesundheitsschutz,       |                          |
-|                          | Beobachtung, Bewertung   |                          |
-|                          | und Beratung, Förderung  |                          |
-|                          | von Umweltgerechtigkeit  |                          |
-+--------------------------+--------------------------+--------------------------+
-| Gesunde Stadt            | Stellungnahme bei        | Umweltmedizin, Hygiene,  |
-|                          | Baumaßnahmen und         | politische Gremien,      |
-|                          | stadtplanerischen        | Gesunde-Städte-Netzwerk  |
-|                          | Projekten, Förderung von |                          |
-|                          | Umweltgerechtigkeit      | \                        |
-+--------------------------+--------------------------+--------------------------+
-| Nicht-übertragbare       | Gesundheitsförderung,    | Kinder- und              |
-| Erkrankungen             | Prävention, Hilfen für   | Jugendgesundheitsdienst, |
-|                          | Suchterkrankte und       | Amtsärztlicher Dienst,   |
-|                          | psychisch Erkrankte      | sozialpsychiatrischer    |
-|                          |                          | Dienst, Netzwerke,       |
-|                          |                          | Hilfeplankonferenzen     |
-+--------------------------+--------------------------+--------------------------+
-| Gesundheit im Alter      | Gesundheitsförderung von | Amtsärztlicher Dienst,   |
-|                          | alten Menschen,          | Sozialpsychiatrischer    |
-|                          | Unterstützungsangebote,  | Dienst, Beratungsstellen |
-|                          | Aufklärungskampagnen,    | für Menschen mit         |
-|                          | Pflegeberatung           | besonderen Bedürfnissen  |
-|                          |                          | (Behinderungen),         |
-|                          |                          | Senioren etc.            |
-+--------------------------+--------------------------+--------------------------+
-| Ernährung (Public Health | Gesunde Ernährung in     | Kinder- und              |
-| Nutrition)               | Gemeinschaftseinrichtung | Jugendgesundheitsdienst, |
-|                          | en                       | Netzwerkarbeit           |
-|                          | (z.B. Kitas, Schulen)    |                          |
-+--------------------------+--------------------------+--------------------------+
-| Mentale Gesundheit       | Anbindung zur Versorgung | Sozialpsychiatrischer    |
-|                          | und Prävention von       | Dienst,                  |
-|                          | psychischen              | Beratungsstellen,        |
-|                          | Erkrankungen,            | Gesundheitsförderung     |
-|                          | aufsuchende Beratung und |                          |
-|                          | Hilfen, Maßnahmen gemäß  |                          |
-|                          | PsychK(H)G               |                          |
-+--------------------------+--------------------------+--------------------------+
-| Tourismus                | Reisemedizinische        | Ärztliche                |
-|                          | Beratung                 | (reisemedizinische)      |
-|                          |                          | Sprechstunden,           |
-|                          |                          | Amtsärztlicher Dienst    |
-+--------------------------+--------------------------+--------------------------+
-| Migration und            | Humanitäre               | Amtsärztlicher Dienst,   |
-| medizinische Versorgung  | Sprechstunden,           | Kinder- und              |
-| von Menschen mit         | gesundheitliche          | Jugendgesundheitsdienst  |
-| Fluchterfahrung          | Versorgung von Menschen  |                          |
-|                          | ohne                     |                          |
-|                          | aufenthaltsrechtliche    |                          |
-|                          | Papiere                  |                          |
-+--------------------------+--------------------------+--------------------------+
-| Menschenhandel,          | Aufsuchende Hilfen und   | Amtsärztlicher Dienst,   |
-| Zwangsprostitution       | Beratung für             | Sprechstunden            |
-|                          | Sexarbeiter/innen,       |                          |
-|                          | Maßnahmen und Beratung   |                          |
-|                          | gemäß ProstSchG          |                          |
-+--------------------------+--------------------------+--------------------------+
-| Forschung,               | Forschung,               | Kooperationen, Projekte, |
-| Politikberatung,         | Politikberatung,         | Leitungsebene            |
-| evidenzbasierte Praxis   | evidenzbasierte Praxis   | (Amtsleitung), Lehre     |
-+--------------------------+--------------------------+--------------------------+
+| **Globales Gesundheitsthema**                                          | **ÖGD Aufgabenfelder**                                                                                                                            | **Abteilungen im ÖGD**                                                                                                                        |
+|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Umweltgesundheit und Klimawandel                                       | Umweltbezogener Gesundheitsschutz, Beobachtung und Bewertung von Umwelteinflüssen, Beratung, Hitzeaktionspläne, Förderung von Umweltgerechtigkeit | Umweltmedizin, Hygiene, Infektiologie, politische Gremien                                                                                     |
+| Global Burden of Disease Messung                                       | Gesundheitsberichterstattung                                                                                                                      | Gesundheitsberichterstattung                                                                                                                  |
+| Universal Health Coverage                                              | sozialkompensatorische Gesundheitsversorgung                                                                                                      | Amtsärztlicher Dienst, Kinder- und Jugendgesundheitsdienst, Sozialpsychiatrischer Dienst, Infektiologie                                       |
+| Health in All Policies                                                 | Gesundheit in allen Politikfeldern der Kommune/des Landes                                                                                         | Leitungsebene (Amtsleitung), politische Gremien, Politikberatung                                                                              |
+| Internationale Gesundheitsvorschriften                                 | Gesundheitsschutz, Infektionsschutz                                                                                                               | Infektiologie, Hygiene, Hafen- und flughafenärztlicher Dienst                                                                                 |
+| Infektionserkrankungen                                                 | Tuberkulose- /HIV-Management, Maßnahmen gemäß IfSG, Ausbruchsmanagement, Impfungen, STD-Beratung                                                  | Infektiologie, Hygiene, Amtsärztlicher Dienst                                                                                                 |
+| Antibiotikaresistenzen                                                 | Netzwerke zu Multiresistenten Erregern (MRE), Hygiene in medizinischen Einrichtungen, Surveillance von Antibiotikaverbrauch und MRE               | Hygiene, Infektionsschutz                                                                                                                     |
+| Lebensmittelsicherheit                                                 | Lebensmittelkontrolle, Hygiene in Lebensmittelbetrieben                                                                                           | Lebensmittel-/Veterinärbehörde                                                                                                                |
+| Gesundheitskompetenz (Health Literacy)                                 | Informationsveranstaltungen, Öffentlichkeitsarbeit, Aufklärungskampagnen, Gesundheitsberatung                                                     | GBE, Amtsärztlicher Dienst, Gesundheitsförderung, Sprechstunden, Projekte                                                                     |
+| Luftverschmutzung                                                      | Umweltbezogener Gesundheitsschutz, Beobachtung, Bewertung und Beratung, Förderung von Umweltgerechtigkeit                                         | Umweltmedizin, Netzwerke                                                                                                                      |
+| Gesunde Stadt                                                          | Stellungnahme bei Baumaßnahmen und stadtplanerischen Projekten, Förderung von Umweltgerechtigkeit                                                 | Umweltmedizin, Hygiene, politische Gremien, Gesunde-Städte-Netzwerk                                                                           |
+| Nicht-übertragbare Erkrankungen                                        | Gesundheitsförderung, Prävention, Hilfen für Suchterkrankte und psychisch Erkrankte                                                               | Kinder- und Jugendgesundheitsdienst, Amtsärztlicher Dienst, sozialpsychiatrischer Dienst, Netzwerke, Hilfeplankonferenzen                     |
+| Gesundheit im Alter                                                    | Gesundheitsförderung von alten Menschen, Unterstützungsangebote, Aufklärungskampagnen, Pflegeberatung                                             | Amtsärztlicher Dienst, Sozialpsychiatrischer Dienst, Beratungsstellen für Menschen mit besonderen Bedürfnissen (Behinderungen), Senioren etc. |
+| Ernährung (Public Health Nutrition)                                    | Gesunde Ernährung in Gemeinschaftseinrichtungen (z.B. Kitas, Schulen)                                                                             | Kinder- und Jugendgesundheitsdienst, Netzwerkarbeit                                                                                           |
+| Mentale Gesundheit                                                     | Anbindung zur Versorgung und Prävention von psychischen Erkrankungen, aufsuchende Beratung und Hilfen, Maßnahmen gemäß PsychK(H)G                 | Sozialpsychiatrischer Dienst, Beratungsstellen, Gesundheitsförderung                                                                          |
+| Tourismus                                                              | Reisemedizinische Beratung                                                                                                                        | Ärztliche (reisemedizinische) Sprechstunden, Amtsärztlicher Dienst                                                                            |
+| Migration und medizinische Versorgung von Menschen mit Fluchterfahrung | Humanitäre Sprechstunden, gesundheitliche Versorgung von Menschen ohne aufenthaltsrechtliche Papiere                                              | Amtsärztlicher Dienst, Kinder- und Jugendgesundheitsdienst                                                                                    |
+| Menschenhandel, Zwangsprostitution                                     | Aufsuchende Hilfen und Beratung für Sexarbeiter/innen, Maßnahmen und Beratung gemäß ProstSchG                                                     | Amtsärztlicher Dienst, Sprechstunden                                                                                                          |
+| Forschung, Politikberatung, evidenzbasierte Praxis                     | Forschung, Politikberatung, evidenzbasierte Praxis                                                                                                | Kooperationen, Projekte, Leitungsebene (Amtsleitung), Lehre                                                                                   |
+
 
 Im Folgenden werden zentrale Themenfelder globaler Gesundheit
 beschrieben und anhand von exemplarischen Handlungsfeldern dargestellt,
@@ -717,7 +618,7 @@ zu beobachten (Steul et al. 2018).
 
 ![](images/82ca75d3-025c-4b84-89cd-22516e38a380.png)
 
-AbbildungHeiße Tage und Tropennächte 2001 bis 2019 (Frankfurt am Main).
+Abbildung 11: Heiße Tage und Tropennächte 2001 bis 2019 (Frankfurt am Main).
 Quelle: UBA / DWD
 
 Aufgrund dieser Zahlen wurde zunächst ein Hitzewarnsystem etabliert, mit
@@ -748,7 +649,7 @@ deutlich.
 
 ![](images/66300f83-6103-42bf-a730-db9fb3d2597c.png)
 
-AbbildungAnzahl der Tage mit einem Lufttemperatur-Maximum über 30 Grad
+Abbildung 12: Anzahl der Tage mit einem Lufttemperatur-Maximum über 30 Grad
 Celsius. Quelle: UBA / DWD
 
 Dieses Monitoring kann Teil der Evaluation eines übergeordneten
@@ -789,11 +690,11 @@ Faktoren betrachtet.
 
 ![](images/e8476859-9c0b-4a07-8a04-72e84c25c075.png)
 
-AbbildungBerliner Umweltgerechtigkeitsplant
+Abbildung 13: Berliner Umweltgerechtigkeitsplant
 
 ![](images/e8476859-9c0b-4a07-8a04-72e84c25c075.png)
 
-AbbildungBerliner Umweltgerechtigkeitsplant
+Abbildung 14: Berliner Umweltgerechtigkeitsplant
 
 Das Land Berlin hat sich das Ziel gesetzt, diese Mehrfachbelastungen im
 Konzept der Umweltgerechtigkeit in der Stadtplanung zu berücksichtigen.
@@ -811,175 +712,3 @@ Gesundheitsförderung verzahnt sind und wie intersektoral
 Gesundheitsförderung auf kommunaler Ebene betrieben werden kann. Lokal
 verbesserte Umwelt kann umgekehrt nicht nur Gesundheit schützen sondern
 auch zur Verringerung eines planetaren Gesundheitsproblems beitragen.
-
-Literaturverzeichnis {#_5_1 .article-bibliography-header}
-====================
-
-Ärzte der Welt. 2018. “Kampf Gegen Teuere Medikamente.” 2018.
-https://www.aerztederwelt.org/en/node/16232.
-
-Bundesärztekammer. 2019. “Lancet Countdown on Health and Climate Change:
-Policy Briefing Für Deutschland.” 2019.
-https://www.bundesaerztekammer.de/aerzte/medizin-ethik/projektbezogene-themen/lancet-countdown-on-health-and-climate-change-policy-briefing-fuer-deutschland/.
-
-Bundesministerium für Gesundheit. 2015. “DART 2020 - Deutsche
-Antibiotika-Resistenzstrategie.” 2015.
-https://www.bundesgesundheitsministerium.de/themen/praevention/antibiotika-resistenzen/antibiotika-resistenzstrategie.html.
-
-Clark, R, N.B Anderson, V.R Clark, and D.R Williams. 1999. “Racism as a
-Stressor for African Americans: A Biopsychosocial Model.” *American
-Psychologist*. https://doi.org/10.1037/0003-066X.54.10.805.
-
-Die Bundesregierung. 2018. “Die Deutsche Nachhaltigkeitsstrategie.”
-2018.
-https://www.bundesregierung.de/breg-de/themen/nachhaltigkeitspolitik/eine-strategie-begleitet-uns/die-deutsche-nachhaltigkeitsstrategie.
-
-Dubois, L, A Farmer, M Girard, and K Peterson. 2008. “Social Factors and
-Television Use during Meals and Snacks Is Associated with Higher BMI
-among Pre-School Children.” *Public Health Nutr*.
-https://doi.org/10.1017/S1368980008002887.
-
-Editorial. 2009. “A Comission on Climate Change.” *The Lancet*.
-https://doi.org/10.1016/S0140-6736(09)60922-3.
-
-Europäische Kommission. 2015. “Übereinkommen von Paris.” 2015.
-https://ec.europa.eu/clima/policies/international/negotiations/paris\_de.
-
-European Centre for Disease Prevention and Control. 2020. “European
-Antimicrobial Resistance Surveillance Network (EARS-Net).” 2020.
-https://www.ecdc.europa.eu/en/about-us/partnerships-and-networks/disease-and-laboratory-networks/ears-net.
-
-Flynn, A, C McGreevy, and EC Mulkerrin. 2005. “Why Do Older Patients Die
-in a Heatwave?” *QJM*. https://doi.org/10.1093/qjmed/hci025 .
-
-Global Burden of Disease Health Financing Collaborator Network. 2018.
-“Trends in Future Health Financing and Coverage: Future Health Spending
-and Universal Health Coverage in 188 Countries, 2016–40.” *The Lancet*.
-https://doi.org/10.1016/S0140-6736(18)30697-4.
-
-Institute for Health Metrics and Evaluation (IHME) . 2017. “Global
-Burden of Disease (GBD).” 2017. http://www.healthdata.org/gbd.
-
-International Organisation for Migration. 2020. “Key Migration Terms.”
-2020. https://www.iom.int/key-migration-terms\#Migration.
-
-Kenny, GP, Gagnon, D Shiff, R Armstrong, WS Journeay, and D Kilby. 2010.
-“Influence of Nonthermal Baroreceptor Modulation of Heat Loss Responses
-during Uncompensable Heat Stress.” *Eur J Appl Physiol*.
-https://doi.org/10.1007/s00421-009-1255-7.
-
-Kohler, S. 2019. “Die Vermessung Der Globalen Gesundheit.” In
-*Gesundheit Und Gesellschaft | Wissenschaft*, 19(2):16–23.
-
-Kovats, RS, and S Hajat. 2008. “Heat Stress and Public Health: A
-Critical Review.” *Annu Rev Public Health*.
-https://doi.org/10.1146/annurev.publhealth.29.020907.090843.
-
-Lindert, J, O von Ehrenstein, A Wehrwein, E Brähler, and I Schäfer.
-2018. “Angst, Depressionen Und Posttraumatische Belastungsstörungen Bei
-Flüchtlingen – Eine Bestandsaufnahme.” *Psychother Psychosom Med
-Psychol*. https://doi.org/10.1055/s-0043-103344.
-
-Maibach-Nagel, E. 2020. “Interview Mit Prof. Dr. Dr. Med. Sabine
-Gabrysch, Professorin Für Klimawandel Und Gesundheit an Der Charité –
-Universitätsmedizin Berlin Und Ko-Leiterin Der Abteilung Für
-Klimaresilienz Am Potsdam-Institut Für Klimafolgenforschung: „Ärzte
-Könnten Zu Wichtigen Akteuren Des Wandels Werden“.” Edited by N Eckert.
-2020.
-https://www.aerzteblatt.de/archiv/213763/Interview-mit-Prof-Dr-Dr-med-Sabine-Gabrysch-Professorin-fuer-Klimawandel-und-Gesundheit-an-der-Charite-Universitaetsmedizin-Berlin-und-Ko-Leiterin-der-Abteilung-fuer-Klimaresilienz-am-Potsdam-Institu.
-
-Maier, W, C Scheidt-Nave, R Holle, L.E Kroll, T Lampert, Y Du, C
-Heidemann, and A Mielck. n.d. “Area Level Deprivation Is an Independent
-Determinant of Prevalent Type 2 Diabetes and Obesity at the National
-Level in Germany. Results from the National Telephone Health Interview
-Surveys ‘German Health Update’ GEDA 2009 and 2010.” *PLOS ONE*.
-https://doi.org/pone.0089661.
-
-Metzing, M, and D Schacht. 2019. “Soep Survey Paper.” 2019.
-https://www.diw.de/de/diw\_01.c.620851.de/publikationen/soepsurveypapers/2019\_0700/gesundheitliche\_situation\_der\_bevoelkerung\_mit\_migrationshin\_\_\_sonderauswertung\_fuer\_die\_bundesintegrationsbeauftragte\_2019.html.
-
-Meyer, I.H. 2007. “Prejudice and Discrimination as Social Stressors.” In
-*The Health of Sexual Minorities: Public Health Perspectives on Lesbian,
-Gay, Bisexual, and Transgender Populations*, by I.H Meyer and M.E
-Northridge. Springer Science + Business Media.
-https://doi.org/10.1007/978-0-387-31334-4\_10.
-
-Mücke, HG, and W Straff. 2020. “Empfehlungen Für Die Erstellung von
-Hitzeaktionsplänen – Handeln Für Eine Bessere Gesundheitsvorsorge.”
-*Public Health Forum*. https://doi.org/10.1515/pubhef-2020-0001.
-
-Obrist, B, N Iteba, C Lengeler, A Makemba, C Mshana, R Nathan, S Alba,
-et al. 2007. “Access to Health Care in Contexts of Livelihood
-Insecurity: A Framework for Analysis and Action.” *PLOS Medicine*, 2007.
-https://doi.org/10.1371/journal.pmed.0040308.
-
-Plass, D, T Vos, C Hornberg, C Scheidt-Nave, H Zeeb, and A Krämer. 2014.
-“Entwicklung Der Krankheitslast in Deutschland.” *Deutsches Ärzteblatt*.
-https://doi.org/10.3238/arztebl.2014.0629.
-
-Razum, O, H Zeeb, and S Rohrmann. 2000. “Int J. Epidemiology.” *The
-‘Healthy Migrant Effect’–Not Merely a Fallacy of Inaccurate Denominator
-Figures*. https://doi.org/10.1093/ije/29.1.191.
-
-ReAct. 2019. “The Global Threat of Antibiotic Resistance.” 2019.
-https://www.reactgroup.org/antibiotic-resistance/the-threat/.
-
-Richmann, L.S, E Pascone, and M Lattanner. 2018. “Interpersonal
-Discrimination and Physical Health.” In *The Oxford Handbook of Stigma,
-Discrimination, and Health*, by B Major, J.F Dovidio, and B.G Links.
-Oxford University Press.
-
-Schifano, P, G Cappai, M De Sario, P Michelozzi, C Marino, AM Bargagli,
-and CA Perucci. 2009. “Susceptibility to Heat Wave-Related Mortality: A
-Follow-up Study of a Cohort of Elderly in Rome.” *Environmental Health*.
-https://doi.org/10.1186/1476-069X-8-50.
-
-Senatsverwaltung für Umwelt, Verkehr und Klimaschutz. 2020.
-“Umweltgerechtigkeit.” 2020.
-https://www.berlin.de/sen/uvk/umwelt/nachhaltigkeit/umweltgerechtigkeit/.
-
-Steul, K, L Latasch, H.G Jung, and U Heudorf. 2018. “Erkrankungsrisiken
-Und Sterblichkeit Durch Hitze(-Wellen) – Daten Aus Frankfurt Am Main Im
-Kontext Internationaler Untersuchungen.” *Gesundheitswesen*, 2018.
-https://doi.org/10.1055/s-0038-1639284.
-
-Tulane University, ed. 2018. “Food Deserts in America.” 2018.
-https://socialwork.tulane.edu/blog/food-deserts-in-america.
-
-Umweltbundesamt. 2020a. “Klimawandel Und Gesundheit.” 2020.
-https://www.umweltbundesamt.de/themen/gesundheit/umwelteinfluesse-auf-den-menschen/klimawandel-gesundheit\#hitzewellen-konnen-die-gesundheit-belasten.
-
-———. 2020b. “Umweltgerechtigkeit – Umwelt, Gesundheit Und Soziale Lage.”
-2020.
-https://www.umweltbundesamt.de/themen/gesundheit/umwelteinfluesse-auf-den-menschen/umweltgerechtigkeit-umwelt-gesundheit-soziale-lage\#umweltgerechtigkeit-umwelt-gesundheit-und-soziale-lage.
-
-UNICEF. 2016. “The Faces of Malnutrition.” 2016.
-https://www.unicef.org/nutrition/index\_faces-of-malnutrition.html.
-
-United Nations. 2019. “Unprecedented Impacts of Climate Change
-Disproportionately Burdening Developing Countries, Delegate Stresses, as
-Second Committee Concludes General Debate.” 2019.
-https://www.un.org/press/en/2019/gaef3516.doc.htm.
-
-Wagner-Ahlfs, C, C Godt, C Jenkes, J Schaaber, and P Tinnemann. 2009.
-“Medizinische Forschung: Der Allgemeinheit Verpflichtet. „Equitable
-Licenses“ Für Ergebnisse Öffentlich Geförderter Medizinischer
-Forschung.” *Pharma-Brief Spezial 2009, No 1*, 2009.
-
-Whitmee, S, A Haines, C Beyrer, F Boltz, A.G Capon, B Ferreira de Souza
-Dias, and A Ezeh. 2015. “Safeguarding Human Health in the Anthropocene
-Epoch: Report of The Rockefeller Foundation-Lancet Commission on
-Planetary Health.” *Lancet*, 2015.
-https://doi.org/10.1016/S0140-6736(15)60901-1.
-
-World Health Organisation. 2015. “Global Antimicrobial Resistance
-Surveillance System (GLASS).” 2015. https://www.who.int/glass/en/.
-
-———. 2019. “WHO Model Lists of Essential Medicines.” 2019.
-https://www.who.int/medicines/publications/essentialmedicines/en/.
-
-———. 2020a. “Antimicrobial Resistance.” 2020.
-https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance.
-
-———. 2020b. “Migration and Health: Key Issues.” 2020.
-https://www.euro.who.int/en/health-topics/health-determinants/migration-and-health/migration-and-health-in-the-european-region/migration-and-health-key-issues\#292115.
