@@ -39,22 +39,3 @@ insbesondere der ÖGD, einen starken Beitrag leisten. Hierfür wird ein
 handelt und sich mit internationalen Themenfeldern gezielt
 auseinandersetzt. Aktuell zeigen sich Reformbedarfe auf verschiedenen
 Ebenen.
-
-\
-\
-
-Literaturverzeichnis {#_7_1 .article-bibliography-header}
-====================
-
-Deutsches Ärzteblatt. 2020. “5.000 Neue Stellen Im Öffentlichen
-Gesundheitsdienst.” 2020.
-https://www.aerzteblatt.de/nachrichten/116263/5-000-neue-Stellen-im-Oeffentlichen-Gesundheitsdienst.
-
-Dragano, N, A Gerhardus, BM Kurth, O Razum, A Stang, U Teichert, LH
-Wieler, M Wildner, and H Zeeb. 2016. “Public Health – Mehr Gesundheit
-Für Alle.” *Gesundheitswesen*. https://doi.org/10.1055/s-0042-116192.
-
-Philipsborn, P von, K Geffert, F Hommes, S Drees, J Springer, and J
-Stratil. 2018. “Öffentlicher Gesundheitsdienst: Weg von Verstaubten
-Klischees.” *Deutsches Ärzteblatt*.
-https://www.aerzteblatt.de/archiv/196428/Oeffentlicher-Gesundheitsdienst-Weg-von-verstaubten-Klischee.

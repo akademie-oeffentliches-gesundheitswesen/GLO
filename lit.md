@@ -335,3 +335,104 @@ https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance.
 
 ———. 2020b. “Migration and Health: Key Issues.” 2020.
 https://www.euro.who.int/en/health-topics/health-determinants/migration-and-health/migration-and-health-in-the-european-region/migration-and-health-key-issues\#292115.
+
+## Aus-, Fort- & Weiterbildung
+
+Akçay, M, S Drees, K Geffert, M Havemann, F Hommes, P Jaehn, M Krisam,
+et al. 2018. “Öffentliche Gesundheit in Deutschland: Eine Perspektive
+Des Nachwuchses.” *Das Gesundheitswesen*. 03.
+https://doi.org/10.1055/a-0795-3477.
+
+Bozorgmehr, K, J Menzel-Severing, K Schubert, and P Tinnemann. 2010.
+“Global Health Education: A Cross-Sectional Study among German Medical
+Students to Identify Needs, Deficits and Potential Benefits (Part 2 of
+2: Knowledge Gaps and Potential Benefits).” *BMC Med Educ*.
+https://doi.org/10.1186/1472-6920-10-67.
+
+Bundesärztekammer. 2018. “(Muster-)Weiterbildungsordnung 2018.”
+https://www.bundesaerztekammer.de/aerzte/aus-weiter-fortbildung/weiterbildung/muster-weiterbildungsordnung/.
+
+Bundesärztestatistik. 2019. “Bundesärztekammer: Ärztestatistik.” 2019.
+https://www.bundesaerztekammer.de/ueber-uns/aerztestatistik/.
+
+Frenk, J, L Chen, ZA Bhutta, J Cohen, N Crisp, T Evans, H Fineberg, et
+al. 2010. “Health Professionals for a New Century: Transforming
+Education to Strengthen Health Systems in an Interdependent World.” *The
+Lancet*. https://doi.org/10.1016/S0140-6736(10)61854-5.
+
+Havemann, M, and S Bösner. 2018. “Global Health as ‘Umbrella Term’ – a
+Qualitative Study among Global Health Teachers in German Medical
+Education.” *Globalization and Health*.
+
+Havemann, M, F Hommes, and K Geffert. 2018. “Hintergrundinformationen
+Zur Integration von Global Health in Die Medizinische Ausbildung,
+Weiterentwicklung Des IMPP Gegenstand-Katalogs.” *Unveröffentlicht*.
+
+Hommes, F, K Alpers, B Reime, and U Rexroth. 2020. “Durch Attraktive
+Karrierewege Public Health in Deutschland Nachhaltig Stärken –
+Kernforderungen an Eine Public-Health-Strategie Für Deutschland Im
+Bereich Human Resources.” *Das Gesundheitswesen*.
+https://doi.org/10.1055/a-1082-0890.
+
+Hommes, F, S Drees, K Geffert, P von Philipsborn, and J Stratil. 2020a.
+“How Are Social Determinants of Health Represented in German Medical
+Education?: A Qualitative Content Analysis of Key-Curricular Documents.”
+*BMJ OPEN*. https://doi.org/10.1136/bmjopen-2019-036026.
+
+Hommes, F, S Drees, K Geffert, P von Philipsborn, and J Stratil. 2020b.
+“Soziale Determinanten von Gesundheit Als Lehr- Und Prüfungsinhalte Im
+Medizinstudium.” *Das Gesundheitswesen*.
+https://doi.org/10.1055/a-1005-7082.
+
+Institute of Medicine (US) Committee on Assuring the Health of the
+Public in the 21st Century. 2002. *The Future of the Public´s Health in
+the 21st Century*. National Academies Press (US). Washington (DC).
+
+Knipper, M. 2018. “Was Bedeutet Die Internationalisierung Der Curricula
+– Zum Beispiel Für Die Medizin?” 2018.
+https://www.international.uni-freiburg.de/en/news-events/dilt/presentations/knipper-keynote.pdf.
+
+Medizinischer Fakultätentag. 2017. “Positionspapier. Vermittlung von
+Wissenschaftskompetenz Im Medizinstudium.” 2017.
+https://medizinische-fakultaeten.de/wp-content/uploads/2018/01/Positionspapier-Wissenschaftlichkeit.pdf.
+
+Nachwuchsnetzwerk Öffentliche Gesundheit. 2017. “Nachwuchsnetzwerk
+Öffentliche Gesundheit.” 2017. http://noeg.org/ueber-uns.
+
+Philipsborn, P von, K Geffert, F Hommes, S Drees, J Springer, and J
+Stratil. 2018. “Perspektiven Des Medizinischen Nachwuchses Auf Den ÖGD.”
+*Blickpunkt Öffentliche Gesundheit*.
+https://www.akademie-oegw.de/aktuelles/blickpunkt/blickpunkt-artikel/2018/06/01/nachwuchs-im-oegd.html.
+
+Pientka, K, and R Gottschalk. 2017. “Praktisches Jahr Im Gesundheitsamt
+Möglich?” *Arbeitsmed Sozialmed Präventivmed*.
+
+Schmedt, M. 2020. “Generationen Im Krankenhaus: Der Wandel Ist Nicht Zu
+Stoppen.” *Deutsches Ärzteblatt*.
+https://www.aerzteblatt.de/archiv/212499/Generationen-im-Krankenhaus-Der-Wandel-ist-nicht-zu-stoppen.
+
+Teichert, U, C Kaufhold, J Rissland, P Tinnemann, and M Wildner. 2016.
+“Proposal for a Nationwide Johann-Peter Frank Cooperation Model under
+the National Leopoldina Initiative for Public Health and Global Health.”
+*Gesundheitswesen*. https://doi.org/10.1055/s-0042-109162.
+
+Whitfield, M. 2004. “Public Health Job Market.” In *Employment in Public
+Heath in Europe*, by K Czabanowska and C Wlodarczyk, Kraków,
+Jagiellonian University Press.
+
+## Ausblick
+
+Deutsches Ärzteblatt. 2020. “5.000 Neue Stellen Im Öffentlichen
+Gesundheitsdienst.” 2020.
+https://www.aerzteblatt.de/nachrichten/116263/5-000-neue-Stellen-im-Oeffentlichen-Gesundheitsdienst.
+
+Dragano, N, A Gerhardus, BM Kurth, O Razum, A Stang, U Teichert, LH
+Wieler, M Wildner, and H Zeeb. 2016. “Public Health – Mehr Gesundheit
+Für Alle.” *Gesundheitswesen*. https://doi.org/10.1055/s-0042-116192.
+
+Philipsborn, P von, K Geffert, F Hommes, S Drees, J Springer, and J
+Stratil. 2018. “Öffentlicher Gesundheitsdienst: Weg von Verstaubten
+Klischees.” *Deutsches Ärzteblatt*.
+https://www.aerzteblatt.de/archiv/196428/Oeffentlicher-Gesundheitsdienst-Weg-von-verstaubten-Klischee.
+
+## Next
