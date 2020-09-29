@@ -77,7 +77,7 @@ Hauptursachen der Krankheitslast in Deutschland.
 
 ![](images/68f2d106-4a39-46d7-a29f-3cac13a2e3e7.png)
 
-AbbildungRanking der Level 2 Krankheitsgruppen der Global Burden of
+Abbildung 10: Ranking der Level 2 Krankheitsgruppen der Global Burden of
 Disease Studie 2017 nach deren geschätztem Beitrag zur gesamten
 Krankheitslast (gemessen in DALYs) weltweit bzw. in Deutschland. Quelle:
 In Anlehnung an GBD 2017 DALYs and HALE Collaborators
@@ -148,7 +148,7 @@ In der nachfolgenden Tabelle werden Bezüge zwischen globalen (bzw.
 planetaren) Gesundheitsthemen und ÖGD Aufgabenfeldern sowie den im ÖGD
 zuständigen Abteilungen dargestellt:\
 
-**Tabelle:**Globale Herausforderungen und deren Bezug zur Praxis im ÖGD\
+**Tabelle:**Globale Herausforderungen und deren Bezug zur Praxis im ÖGD
 
 +--------------------------+--------------------------+--------------------------+
 | **Globales               | **ÖGD Aufgabenfelder**   | **Abteilungen im ÖGD**   |
