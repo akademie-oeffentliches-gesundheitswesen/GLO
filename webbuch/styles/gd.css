@@ -314,6 +314,7 @@ blockquote {
   margin-left: 40px;/* 3.3241rem*/
   padding-left: 5px;
   margin-right: 10px;
+  font-weight : normal;
   font-style: italic;
 }
 
@@ -341,12 +342,18 @@ blockquote.oneline:before {
 blockquote p {
   font-family: inherit;
   text-align: left;
-  font-style: normal;
+  font-style: italic;
 }
 
 blockquote strong {
   font-weight: 600;
 }
+
+blockquote .citation {
+  font-family: inherit;
+  font-style: normal;
+}
+
 
 blockquote  p.att { text-align: right; }
 
@@ -767,6 +774,10 @@ table td.midcenter p {
   letter-spacing: 0.2pt;
   word-spacing: 0.2pt;
 }
+
+.csl-bib-body {
+  padding: 0;
+}
 section[data-type="toc"] h1.toc {
   font-size: 26pt;
   line-height: 30pt;
@@ -882,7 +893,7 @@ h2 + h2, h2 + h3, h3 + h4, h4 + h5 {
   margin-top: -5pt;
 }
 
-h2 + p {
+h2 + p, h2 + div.csl-bib-body {
   margin-top: -5pt;
 }
 
