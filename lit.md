@@ -34,8 +34,7 @@ https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/5_Publikationen/Ge
 Farmer, P, JY Kim, A Kleinmann, and M Basilico. 2013. *Reimagining Global
 Health*.
 
-Fried, LP, ME Bentley, P Buekens, DS Burke, JJ Frenk, MJ Klag, and HC Spencer.
-2010. “Global Health Is Public Health.” *The Lancet*.
+Fried, LP, ME Bentley, P Buekens, DS Burke, JJ Frenk, MJ Klag, and HC Spencer. 2010. “Global Health Is Public Health.” *The Lancet*.
 https://doi.org/10.1016/S0140-6736(10)60203-6 .
 
 Havemann, M, and S Bösner. 2018. “Global Health as ‘Umbrella Term’ – a
@@ -70,8 +69,7 @@ Global Health Diplomacy.” *Global Health*.
 Lawn, JE, J Rohde, S Rifkin, M Were, VK Paul, and M Chopra. 2008. “Alma-Ata 30
 Years on: Revolutionary, Relevant, and Time to Revitalise.” *The Lancet*.
 
-Lindstrand, A, S Bergström, H Rosling, B Rubenson, B Stenson, and T Tylleskär.
-2006. *Global Health - An Introductory Textbook*.
+Lindstrand, A, S Bergström, H Rosling, B Rubenson, B Stenson, and T Tylleskär. 2006. *Global Health - An Introductory Textbook*.
 
 Nachwuchsnetzwerks Öffentliche Gesundheit . 2019. “Eine Public-Health-Strategie
 Für Deutschland .”
@@ -126,8 +124,7 @@ https://www.who.int/health_financing/strategy/dimensions/en/.
 
 ## Akteure in der Öffentlichen und Globalen Gesundheit
 
-Akçay, M, S Drees, K Geffert, M Havemann, F Hommes, P Jaehn, M Krisam, et al.
-2018. “Öffentliche Gesundheit in Deutschland: Eine Perspektive Des Nachwuchses.”
+Akçay, M, S Drees, K Geffert, M Havemann, F Hommes, P Jaehn, M Krisam, et al. 2018. “Öffentliche Gesundheit in Deutschland: Eine Perspektive Des Nachwuchses.”
 *Das Gesundheitswesen*. 03. https://doi.org/10.1055/a-0795-3477.
 
 Bill & Melinda Gates Foundation. 2020. “Foundation Fact Sheet.” 2020.
@@ -151,8 +148,7 @@ https://doi.org/10.1186/s12992-018-0340-2.
 
 Martens, J, and K Seitz. 2015. “Philanthropische Stiftungen Und Entwicklung.”
 
-Philipsborn, P von, K Geffert, F Hommes, S Drees, J Springer, and J Stratil.
-2018. “Öffentlicher Gesundheitsdienst - Weg von Verstaubten Klischees.”
+Philipsborn, P von, K Geffert, F Hommes, S Drees, J Springer, and J Stratil. 2018. “Öffentlicher Gesundheitsdienst - Weg von Verstaubten Klischees.”
 *Deutsches Ärzteblatt*.
 
 The Global Fund. 2020. “Pledges and Contributions.” 2020.
@@ -254,8 +250,7 @@ Mücke, HG, and W Straff. 2020. “Empfehlungen Für Die Erstellung von
 Hitzeaktionsplänen – Handeln Für Eine Bessere Gesundheitsvorsorge.” *Public
 Health Forum*. https://doi.org/10.1515/pubhef-2020-0001.
 
-Obrist, B, N Iteba, C Lengeler, A Makemba, C Mshana, R Nathan, S Alba, et al.
-2007. “Access to Health Care in Contexts of Livelihood Insecurity: A Framework
+Obrist, B, N Iteba, C Lengeler, A Makemba, C Mshana, R Nathan, S Alba, et al. 2007. “Access to Health Care in Contexts of Livelihood Insecurity: A Framework
 for Analysis and Action.” *PLOS Medicine*, 2007.
 https://doi.org/10.1371/journal.pmed.0040308.
 
@@ -312,8 +307,7 @@ Spezial 2009, No 1*, 2009.
 
 Whitmee, S, A Haines, C Beyrer, F Boltz, A.G Capon, B Ferreira de Souza Dias,
 and A Ezeh. 2015. “Safeguarding Human Health in the Anthropocene Epoch: Report
-of The Rockefeller Foundation-Lancet Commission on Planetary Health.” *Lancet*,
-2015. https://doi.org/10.1016/S0140-6736(15)60901-1.
+of The Rockefeller Foundation-Lancet Commission on Planetary Health.” *Lancet*, 2015. https://doi.org/10.1016/S0140-6736(15)60901-1.
 
 World Health Organisation. 2015. “Global Antimicrobial Resistance Surveillance
 System (GLASS).” 2015. https://www.who.int/glass/en/.
@@ -329,8 +323,7 @@ https://www.euro.who.int/en/health-topics/health-determinants/migration-and-heal
 
 ## Aus-, Fort- & Weiterbildung
 
-Akçay, M, S Drees, K Geffert, M Havemann, F Hommes, P Jaehn, M Krisam, et al.
-2018. “Öffentliche Gesundheit in Deutschland: Eine Perspektive Des Nachwuchses.”
+Akçay, M, S Drees, K Geffert, M Havemann, F Hommes, P Jaehn, M Krisam, et al. 2018. “Öffentliche Gesundheit in Deutschland: Eine Perspektive Des Nachwuchses.”
 *Das Gesundheitswesen*. 03. https://doi.org/10.1055/a-0795-3477.
 
 Bozorgmehr, K, J Menzel-Severing, K Schubert, and P Tinnemann. 2010. “Global
@@ -393,8 +386,7 @@ Das PJ-Wahltertial Im Amt Für Gesundheit Der Stadt Frankfurt.” *Hessisches
 Nachwuchsnetzwerk Öffentliche Gesundheit. 2017. “Nachwuchsnetzwerk Öffentliche
 Gesundheit.” 2017. http://noeg.org/ueber-uns.
 
-Philipsborn, P von, K Geffert, F Hommes, S Drees, J Springer, and J Stratil.
-2018. “Perspektiven Des Medizinischen Nachwuchses Auf Den ÖGD.” *Blickpunkt
+Philipsborn, P von, K Geffert, F Hommes, S Drees, J Springer, and J Stratil. 2018. “Perspektiven Des Medizinischen Nachwuchses Auf Den ÖGD.” *Blickpunkt
 Öffentliche Gesundheit*.
 https://www.akademie-oegw.de/aktuelles/blickpunkt/blickpunkt-artikel/2018/06/01/nachwuchs-im-oegd.html.
 
@@ -428,8 +420,7 @@ Dragano, N, A Gerhardus, BM Kurth, O Razum, A Stang, U Teichert, LH Wieler, M
 Wildner, and H Zeeb. 2016. “Public Health – Mehr Gesundheit Für Alle.”
 *Gesundheitswesen*. https://doi.org/10.1055/s-0042-116192.
 
-Philipsborn, P von, K Geffert, F Hommes, S Drees, J Springer, and J Stratil.
-2018. “Öffentlicher Gesundheitsdienst: Weg von Verstaubten Klischees.”
+Philipsborn, P von, K Geffert, F Hommes, S Drees, J Springer, and J Stratil. 2018. “Öffentlicher Gesundheitsdienst: Weg von Verstaubten Klischees.”
 *Deutsches Ärzteblatt*.
 https://www.aerzteblatt.de/archiv/196428/Oeffentlicher-Gesundheitsdienst-Weg-von-verstaubten-Klischee.
 
@@ -450,8 +441,7 @@ Ingleby, D, and Petrova-Benedict. 2016. “Recommendations on Access to Health
 Services for Migrants in an Irregular Situation: An Expert Consensus.”
 https://migrationhealthresearch.iom.int/recommendations-access-health-services-migrants-irregular-situation-expert-consensus.
 
-Obrist, B, N Iteba, C Lengeler, A Makemba, C Mshana, R Nathan, S Alba, et al.
-2007. “Access to Health Care in Contexts of Livelihood Insecurity: A Framework
+Obrist, B, N Iteba, C Lengeler, A Makemba, C Mshana, R Nathan, S Alba, et al. 2007. “Access to Health Care in Contexts of Livelihood Insecurity: A Framework
 for Analysis and Action.” *PLOS Medicine*, 2007.
 https://doi.org/10.1371/journal.pmed.0040308.
 
