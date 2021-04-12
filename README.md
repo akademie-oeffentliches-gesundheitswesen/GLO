@@ -2,7 +2,7 @@
 
 <p>Globale Gesundheit<br/>
 Lehrbuch für den Öffentlichen Gesundheitsdienst<br/>
-ISBN 978-0-0000000-0-0<br/>
+ISBN 978-3-9812871-8-9<br/>
 DOI <a href="https://doi.org/10.20389/q2rj-f244" title="https://doi.org/10.20389/q2rj-f244">10.20389/q2rj-f244</a><br/>
 Datum 2020<br/>
 Ort Berlin</p>
